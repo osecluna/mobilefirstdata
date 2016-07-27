@@ -84,6 +84,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">7-10 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>CNY</currency>
     </shipping-method>
 
@@ -157,6 +160,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">2 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>CNY</currency>
     </shipping-method>
 
@@ -223,6 +229,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">Next Day</custom-attribute>
+        </custom-attributes>
         <currency>CNY</currency>
     </shipping-method>
 
@@ -310,6 +319,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">3-7 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>CNY</currency>
     </shipping-method>
 
@@ -420,6 +432,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">7-10 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>EUR</currency>
     </shipping-method>
 
@@ -493,6 +508,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">2 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>EUR</currency>
     </shipping-method>
 
@@ -550,6 +568,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">Next Day</custom-attribute>
+        </custom-attributes>
         <currency>EUR</currency>
     </shipping-method>
 
@@ -620,6 +641,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">3-7 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>EUR</currency>
     </shipping-method>
 
@@ -730,6 +754,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">7-10 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>JPY</currency>
     </shipping-method>
 
@@ -803,6 +830,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">2 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>JPY</currency>
     </shipping-method>
 
@@ -869,6 +899,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">Next Day</custom-attribute>
+        </custom-attributes>
         <currency>JPY</currency>
     </shipping-method>
 
@@ -956,6 +989,9 @@
                 </condition-group>
             </included-addresses>
         </excluded-addresses>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">3-7 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>JPY</currency>
     </shipping-method>
 
@@ -1034,6 +1070,9 @@
                 </cost-per-item>
             </product-cost-group>
         </product-cost-groups>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">7-10 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>GBP</currency>
     </shipping-method>
 
@@ -1075,6 +1114,9 @@
                 </cost-per-item>
             </product-cost-group>
         </product-cost-groups>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">2 Business Days</custom-attribute>
+        </custom-attributes>
         <currency>GBP</currency>
     </shipping-method>
 
@@ -1100,6 +1142,9 @@
             <amount order-value="200">21.99</amount>
             <amount order-value="500">29.99</amount>
         </price-table>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">Next Day</custom-attribute>
+        </custom-attributes>
         <currency>GBP</currency>
     </shipping-method>
 
@@ -1139,6 +1184,9 @@
             </product-cost-group>
         </product-cost-groups>
         <currency>GBP</currency>
+        <custom-attributes>
+            <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">3-7 Business Days</custom-attribute>
+        </custom-attributes>
     </shipping-method>
 
     <shipping-method method-id="GBP005" default="false">
