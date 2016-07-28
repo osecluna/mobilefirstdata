@@ -462,6 +462,57 @@ Here you will find answers to your questions about shopping at our online store,
         </content>
     </slot-configuration>
 
+    <slot-configuration slot-id="home-categories" context="global" configuration-id="home-categories" default="true" assigned-to-site="true">
+        <description>Category links and images for the home page.</description>
+        <template>slots/content/contentassetbody.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="home-categories"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+
+    <slot-configuration slot-id="home-product-set" context="global" configuration-id="home-product-set" default="true" assigned-to-site="true">
+        <description>homepage product set(Spring Has Sprung) slot</description>
+        <template>slots/product/homepage-product-set-slot.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <products>
+                <product product-id="740357377041"/>
+                <product product-id="013742335422"/>
+                <product product-id="701642819431"/>
+                <product product-id="701644059262"/>
+            </products>
+        </content>
+    </slot-configuration>
+
+    <slot-configuration slot-id="home-products" context="global" configuration-id="home-products" default="true" assigned-to-site="true">
+        <description>Homepage product tiles slot.</description>
+        <template>slots/product/homepage-product-slot.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <products>
+                <product product-id="701644179922"/>
+                <product product-id="701644329402"/>
+                <product product-id="701644391751"/>
+                <product product-id="701642991014"/>
+                <product product-id="750518699578"/>
+            </products>
+        </content>
+    </slot-configuration>
+
+    <slot-configuration slot-id="home-main" context="global" configuration-id="homepage-main-image" default="true" assigned-to-site="true">
+        <description>Homepage main home page image</description>
+        <template>slots/content/contentassetbody.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="home-main"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+
     <slot-configuration slot-id="home-bottom-right" context="global" configuration-id="this-weeks-deals" default="true" assigned-to-site="true">
         <description>Product Carousel of This Weeks Deals</description>
         <template>slots/product/homerightcarousel.isml</template>
@@ -475,17 +526,6 @@ Here you will find answers to your questions about shopping at our online store,
                 <product product-id="25590891"/>
                 <product product-id="793775370033"/>
             </products>
-        </content>
-    </slot-configuration>
-
-    <slot-configuration slot-id="home-main" context="global" configuration-id="homepage-jquery-cycle" default="true" assigned-to-site="true">
-        <description>Homepage Jquery Cycle</description>
-        <template>slots/content/homepage/homepageslider.isml</template>
-        <enabled-flag>true</enabled-flag>
-        <content>
-            <content-assets>
-                <content-asset content-id="home-cycle"/>
-            </content-assets>
         </content>
     </slot-configuration>
 
