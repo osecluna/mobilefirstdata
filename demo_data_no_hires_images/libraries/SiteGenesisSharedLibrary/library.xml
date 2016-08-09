@@ -7188,6 +7188,41 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         </custom-attributes>
     </content>
 
+    <content content-id="home-categories">
+        <display-name xml:lang="x-default">Home  Categories</display-name>
+        <description xml:lang="x-default">Container for Home Page categories slots.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div&gt;&#13;
+&lt;div&gt;&#13;
+&lt;div class="category-message"&gt;&#13;
+&lt;div class="banner-text1"&gt;&lt;a href="$url('Search-Show','cgid','womens-clothing-dresses')$"&gt;Women's Dresses&lt;/a&gt;&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;a href="$url('Search-Show','cgid','womens-clothing-dresses')$"&gt;&lt;img alt="" src="images/homepage/4130210695333_049_b.jpg?$staticlink$" title="" style="width: 445px;" /&gt; &lt;/a&gt;&lt;/div&gt;&#13;
+&#13;
+&lt;div&gt;&#13;
+&lt;div class="category-message"&gt;&#13;
+&lt;div class="banner-text1"&gt;&lt;a href="$url('Search-Show','cgid','womens-jewelry')$"&gt;Weomons Jewelry&lt;/a&gt;&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;a href="$url('Search-Show','cgid','womens-jewelry')$"&gt;&lt;img alt="" src="images/homepage/Screen Shot 2015-01-26 at 9.59.02 AM.png?$staticlink$" title=""  style="width: 445px;"/&gt; &lt;/a&gt;&lt;/div&gt;&#13;
+&#13;
+&lt;div&gt;&#13;
+&lt;div class="category-message"&gt;&#13;
+&lt;div class="banner-text1"&gt;&lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;Mens Jackets&lt;/a&gt;&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;&lt;img alt="" src="images/homepage/fb3.jpg?$staticlink$" title="" style="width: 445px;" /&gt; &lt;/a&gt;&lt;/div&gt;&#13;
+&#13;
+&lt;div&gt;&#13;
+&lt;div class="category-message"&gt;&#13;
+&lt;div class="banner-text1"&gt;&lt;a href="$url('Search-Show','cgid','newarrivals')$"&gt;New Arrivals&lt;/a&gt;&lt;/div&gt;&#13;
+&lt;/div&gt;&#13;
+&lt;a href="$url('Search-Show','cgid','newarrivals')$"&gt;&lt;img alt="" src="images/homepage/greenpeace-fashion-duel-4-537x402.jpg?$staticlink$" title="" style="width: 890px;" /&gt; &lt;/a&gt;&lt;/div&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
     <content content-id="home-bottom-left">
         <display-name xml:lang="x-default">Home Bottom Left</display-name>
         <display-name xml:lang="fr-FR">Centre gauche de la Page d'accueil</display-name>
@@ -7646,21 +7681,51 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
 
     <content content-id="home-main">
         <display-name xml:lang="x-default">Home Main</display-name>
-        <display-name xml:lang="fr-FR">Accueil principal</display-name>
-        <display-name xml:lang="it-IT">Pagina principale Uomo</display-name>
-        <display-name xml:lang="ja-JP">ホームメイン</display-name>
-        <display-name xml:lang="zh-CN">首页主要</display-name>
-        <description xml:lang="x-default">Container for Home Page Flash Carousel</description>
-        <description xml:lang="fr-FR">Conteneur du carroussel Flash de la page d'accueil</description>
-        <description xml:lang="it-IT">Riquadro per carosello flash Pagina principale</description>
-        <description xml:lang="ja-JP">ホームページのフラッシュカルーセルのコンテナ</description>
-        <description xml:lang="zh-CN">首页 Flash 转盘容器</description>
+        <description xml:lang="x-default">Container for Home Page main image.</description>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div&gt;&#13;
+    &lt;a href="$url('Home-Show')$"&gt;&#13;
+        &lt;div class="banner-message"&gt;&#13;
+            &lt;div class="banner-text1"&gt;Summer Style&lt;/div&gt;&#13;
+        &lt;/div&gt;&#13;
+        &lt;img alt="" src="images/homepage/car-spring.jpg?$staticlink$" title=""  style="width: 1334px;"/&gt;&#13;
+    &lt;/a&gt;&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
         <folder-links>
             <classification-link folder-id="home-page"/>
         </folder-links>
+    </content>
+
+    <content content-id="home-product-set-content">
+        <display-name xml:lang="x-default">Home Product Set Content</display-name>
+        <description xml:lang="x-default">Content shown on the homepage that will reveal product tiles of products assigned to the 'home-product-set' slot.</description>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;p&gt;&lt;img alt="" src="images/homepage/Sampleluxury.jpg?$staticlink$" title="" /&gt;&lt;/p&gt;</custom-attribute>
+        </custom-attributes>
+    </content>
+
+    <content content-id="home-product-tile-content">
+        <display-name xml:lang="x-default">Home page product tiles</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div data-tile-index='1'&gt;&#13;
+&lt;a href=''&gt;&#13;
+&lt;span&gt;Styles to Love&lt;/span&gt;&#13;
+&lt;br /&gt;&#13;
+&lt;span&gt;Only Online&lt;/span&gt;&#13;
+&lt;/a&gt;&#13;
+&#13;
+&lt;/div&gt;</custom-attribute>
+        </custom-attributes>
     </content>
 
     <content content-id="home-right">
