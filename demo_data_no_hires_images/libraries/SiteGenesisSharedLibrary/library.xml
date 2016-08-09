@@ -6676,72 +6676,61 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3&gt;Follow Us&lt;/h3&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">
                 &lt;ul class="social-links"&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-linkedin-square fa-3x" title="Go to LinkedIn" href="https://www.linkedin.com/company/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-facebook-square fa-3x" title="Go to Facebook" href="https://www.facebook.com/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-twitter-square fa-3x" title="Go to Twitter" href="https://twitter.com/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-youtube-square fa-3x" title="Go to YouTube" href="https://www.youtube.com/user/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;YouTube&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;                     &#13;
-                &lt;h3&gt;Get special offers &amp; news on the latest styles&lt;/h3&gt;&#13;
-                &lt;form action="#" method="post" id="email-alert-signup"&gt;&#13;
-                &lt;label for="email-alert-address"&gt;&lt;span class="visually-hidden"&gt;Enter Your Email&lt;/span&gt;&lt;/label&gt;&#13;
-                &lt;input type="text" id="email-alert-address" class="input-text" placeholder="Enter Your Email" value="" /&gt;&#13;
-                &lt;button type="submit" name="home-email" value="Submit" class="fa fa-envelope" /&gt;&lt;span class="visually-hidden"&gt;Submit&lt;/span&gt;&lt;/button&gt;&#13;
-                &lt;/form&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h3&gt;Retrouvez-nous&lt;/h3&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-linkedin-square fa-3x" title="Go to LinkedIn" href="https://www.linkedin.com/company/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-facebook-square fa-3x" title="Go to Facebook" href="https://www.facebook.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-twitter-square fa-3x" title="Go to Twitter" href="https://twitter.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-youtube-square fa-3x" title="Go to YouTube" href="https://www.youtube.com/user/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;/ul&gt;
+            </custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">
                 &lt;ul class="social-links"&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-linkedin-square fa-3x" title="Aller sur LinkedIn" href="https://www.linkedin.com/company/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-facebook-square fa-3x" title="Aller sur Facebook" href="https://www.facebook.com/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-twitter-square fa-3x" title="Aller sur Twitter" href="https://twitter.com/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-youtube-square fa-3x" title="Aller sur YouTube" href="https://www.youtube.com/user/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;YouTube&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;                     &#13;
-                &lt;h3&gt;Bénéficiez d'offres spéciales et découvrez les dernières tendances&lt;/h3&gt;&#13;
-                &lt;form action="#" method="post" id="email-alert-signup"&gt;&#13;
-                &lt;label for="email-alert-address"&gt;&lt;span class="visually-hidden"&gt;Saisissez votre e-mail&lt;/span&gt;&lt;/label&gt;&#13;
-                &lt;input type="text" id="email-alert-address" class="input-text" placeholder="Saisissez votre e-mail" value="" /&gt;&#13;
-                &lt;button type="submit" name="home-email" value="Submit" class="fa fa-envelope" /&gt;&lt;span class="visually-hidden"&gt;Envoyer&lt;/span&gt;&lt;/button&gt;&#13;
-                &lt;/form&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;h3&gt;Seguici&lt;/h3&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-linkedin-square fa-3x" title="Aller sur LinkedIn" href="https://www.linkedin.com/company/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-facebook-square fa-3x" title="Aller sur Facebook" href="https://www.facebook.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-twitter-square fa-3x" title="Aller sur Twitter" href="https://twitter.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-youtube-square fa-3x" title="Aller sur YouTube" href="https://www.youtube.com/user/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;/ul&gt;
+            </custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="it-IT">
                 &lt;ul class="social-links"&gt;&#13;
                 &lt;li&gt;&lt;a class="fa fa-linkedin-square fa-3x" title="Vai a LinkedIn" href="https://www.linkedin.com/company/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a class="fa fa-facebook-square fa-3x" title="Vai a Facebook" href="https://www.facebook.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a class="fa fa-twitter-square fa-3x" title="Vai a Twitter" href="https://twitter.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a class="fa fa-youtube-square fa-3x" title="Vai a YouTube" href="https://www.youtube.com/user/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;                     &#13;
-                &lt;h3&gt;Ricevi offerte speciali e notizie sulle ultime tendenze&lt;/h3&gt;&#13;
-                &lt;form action="#" method="post" id="email-alert-signup"&gt;&#13;
-                &lt;input type="text" id="email-alert-address" class="input-text" placeholder="Inserisci il tuo indirizzo e-mail" value="" /&gt;&#13;
-                &lt;button type="submit" name="home-email" value="Submit" Title="Submit" class="fa fa-envelope" /&gt;&lt;/button&gt;&#13;
-                &lt;/form&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;h3&gt;フォロー&lt;/h3&gt;&#13;
+                &lt;/ul&gt;
+            </custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">
                 &lt;ul class="social-links"&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-linkedin-square fa-3x" title="LinkedIn に移動する" href="https://www.linkedin.com/company/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;LinkedIn&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-facebook-square fa-3x" title="Facebook に移動する" href="https://www.facebook.com/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;Facebook&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-twitter-square fa-3x" title="Twitter に移動する" href="https://twitter.com/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;Twitter&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a class="fa fa-youtube-square fa-3x" title="YouTube に移動する" href="https://www.youtube.com/user/demandware" target="_blank"&gt;&lt;span class="visually-hidden"&gt;YouTube&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;                     &#13;
-                &lt;h3&gt;特別プロモーションと最新スタイルのニュースをお届けします&lt;/h3&gt;&#13;
-                &lt;form action="#" method="post" id="email-alert-signup"&gt;&#13;
-                &lt;label for="email-alert-address"&gt;&lt;span class="visually-hidden"&gt;Eメールアドレスの入力&lt;/span&gt;&lt;/label&gt;&#13;
-                &lt;input type="text" id="email-alert-address" class="input-text" placeholder="Eメールアドレスの入力" value="" /&gt;&#13;
-                &lt;button type="submit" name="home-email" value="Submit" class="fa fa-envelope" /&gt;&lt;span class="visually-hidden"&gt;送信&lt;/span&gt;&lt;/button&gt;&#13;
-                &lt;/form&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;h3&gt;关注我们&lt;/h3&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-linkedin-square fa-3x" title="LinkedIn に移動する" href="https://www.linkedin.com/company/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-facebook-square fa-3x" title="Facebook に移動する" href="https://www.facebook.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-twitter-square fa-3x" title="Twitter に移動する" href="https://twitter.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a class="fa fa-youtube-square fa-3x" title="YouTube に移動する" href="https://www.youtube.com/user/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;/ul&gt;
+            </custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="zh-CN">
                 &lt;ul class="social-links"&gt;&#13;
                 &lt;li&gt;&lt;a class="fa fa-linkedin-square fa-3x" title="前往 LinkedIn" href="https://www.linkedin.com/company/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a class="fa fa-facebook-square fa-3x" title="前往 Facebook" href="https://www.facebook.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a class="fa fa-twitter-square fa-3x" title="前往 Twitter" href="https://twitter.com/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a class="fa fa-youtube-square fa-3x" title="前往 YouTube" href="https://www.youtube.com/user/demandware" target="_blank"&gt;&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;                     &#13;
-                &lt;h3&gt;获取关于最新款式的特惠信息和新闻&lt;/h3&gt;&#13;
-                &lt;form action="#" method="post" id="email-alert-signup"&gt;&#13;
-                &lt;input type="text" id="email-alert-address" class="input-text" placeholder="输入电子邮箱" value="" /&gt;&#13;
-                &lt;button type="submit" name="home-email" value="Submit" Title="Submit" class="fa fa-envelope" /&gt;&lt;/button&gt;&#13;
-                &lt;/form&gt;</custom-attribute>
+                &lt;/ul&gt;
+            </custom-attribute>
         </custom-attributes>
     </content>
 
+    <content content-id="footer-locate-store">
+        <display-name xml:lang="x-default">Footer Locate Store</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>false</searchable-flag>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3&gt;Locate Store&lt;/h3&gt;&#13;
+                &lt;a href="$httpsURL('Stores-Find')$" class="menu-footer locate-store"&gt;&#13;The Store Locator is designed to help you find the closest store near you.&lt;/a&gt;
+            </custom-attribute>
+        </custom-attributes>
+    </content>
+    
     <content content-id="footer-support">
         <display-name xml:lang="x-default">Footer Support Links</display-name>
         <display-name xml:lang="fr-FR">Liens Assistance en pied de page</display-name>
