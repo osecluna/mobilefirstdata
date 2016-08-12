@@ -7186,26 +7186,26 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <custom-attributes>
             <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="col-sm-8 cat-row"&gt;&#13;
   &lt;div class="col-sm-6 cat-cell cat-cell-1" style="background-image: url(images/homepage/sample2.jpeg?$staticlink$); "&gt;&#13;
-    &lt;div class="hp-category-message"&gt;&#13;
+    &lt;h4 class="hp-category-message"&gt;&#13;
       &lt;a href="$url('Search-Show','cgid','womens-jewelry')$"&gt;Wemons Jewelry&lt;/a&gt;&#13;
-    &lt;/div&gt;&#13;
+    &lt;/h4&gt;&#13;
   &lt;/div&gt;&#13;
   &lt;div class="col-sm-6 cat-cell cat-cell-2" style="background-image: url(images/homepage/sample3.png?$staticlink$); "&gt;&#13;
-    &lt;div class="hp-category-message"&gt;&#13;
+    &lt;h4 class="hp-category-message"&gt;&#13;
         &lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;Mens Jackets&lt;/a&gt;&#13;
-    &lt;/div&gt;&#13;
+    &lt;/h4&gt;&#13;
   &lt;/div&gt;&#13;
   &lt;div class="col-sm-12 cat-cellspan2" style="background-image: url(images/homepage/sampleimage3.jpg?$staticlink$); "&gt;&#13;
-    &lt;div class="hp-promotion-message"&gt;&#13;
+    &lt;h4 class="hp-promotion-message"&gt;&#13;
       &lt;a class="hp-promotion-message1" href="$url('Search-Show','cgid','newarrivals')$"&gt;Promotional Details&lt;/a&gt;&lt;br /&gt;&#13;
       &lt;a class="hp-promotion-message2" href="$url('Search-Show','cgid','newarrivals')$"&gt;Shop Red&lt;/a&gt;&#13;
-    &lt;/div&gt;&#13;
+    &lt;/h4&gt;&#13;
   &lt;/div&gt;&#13;
 &lt;/div&gt;&#13;
 &lt;div class="col-sm-4 cat-rowspan2" style="background-image: url(images/homepage/sampleimage4.jpg?$staticlink$); "&gt;&#13;
-    &lt;div class="hp-category-message"&gt;&#13;
+    &lt;h4 class="hp-category-message"&gt;&#13;
         &lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;Mens Jackets&lt;/a&gt;&#13;
-    &lt;/div&gt;&#13;
+    &lt;/h4&gt;&#13;
 &lt;/div&gt;</custom-attribute>
         </custom-attributes>
     </content>
@@ -7677,7 +7677,7 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
 &lt;div class="main-image" style="background-image: url(images/homepage/car-spring.jpg?$staticlink$); "&gt;&#13;
     &#13;
         &lt;div class="banner-message"&gt;&#13;
-            &lt;div class="banner-text1"&gt;Summer Style&lt;/div&gt;&#13;
+            &lt;h1 class="banner-text1"&gt;Summer Style&lt;/h1&gt;&#13;
         &lt;/div&gt;&#13;
 &#13;
 &lt;/div&gt;&#13;
@@ -7689,7 +7689,7 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
     </content>
 
     <content content-id="home-product-set-content">
-        <display-name xml:lang="x-default">Home Product Set Content</display-name>
+        <display-name xml:lang="x-default">home product set content</display-name>
         <description xml:lang="x-default">Content shown on the homepage that will reveal product tiles of products assigned to the 'home-product-set' slot.</description>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -7698,7 +7698,7 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
             <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href="$url('Home-Show')$"&gt;&#13;
 &lt;div class="set-image" style="background-image: url(images/homepage/set-sampleImage.jpg?$staticlink$); "&gt;&#13;
         &lt;div class="banner-message"&gt;&#13;
-            &lt;div class="banner-text1"&gt;Shop the Style&lt;/div&gt;&#13;
+            &lt;h1 class="banner-text1"&gt;Shop the Style&lt;/h1&gt;&#13;
         &lt;/div&gt;&#13;
 &lt;/div&gt;&#13;
 &lt;/a&gt;</custom-attribute>
