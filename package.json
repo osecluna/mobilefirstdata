@@ -1,0 +1,19 @@
+{
+  "name": "sitegenesisdata",
+  "version": "1.0.0",
+  "description": "This is a repository for the data that goes with the mobile first version of SiteGenesis.",
+  "main": "",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "zipdata": "rm -r demo_data_no_hires_images.zip && zip -r demo_data_no_hires_images.zip demo_data_no_hires_images"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git@bitbucket.org/demandware/sitegenesisdata.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/demandware/sitegenesisdata#readme"
+}

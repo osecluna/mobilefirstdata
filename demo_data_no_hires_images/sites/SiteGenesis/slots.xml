@@ -475,15 +475,12 @@ Here you will find answers to your questions about shopping at our online store,
 
     <slot-configuration slot-id="home-product-set" context="global" configuration-id="home-product-set" default="true" assigned-to-site="true">
         <description>homepage product set(Spring Has Sprung) slot</description>
-        <template>slots/product/homepage-product-set-slot.isml</template>
+        <template>slots/content/contentassetbody.isml</template>
         <enabled-flag>true</enabled-flag>
         <content>
-            <products>
-                <product product-id="740357377041"/>
-                <product product-id="013742335422"/>
-                <product product-id="701642819431"/>
-                <product product-id="701644059262"/>
-            </products>
+            <content-assets>
+                <content-asset content-id="home-product-set-content"/>
+            </content-assets>
         </content>
     </slot-configuration>
 

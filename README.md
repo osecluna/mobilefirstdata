@@ -2,6 +2,10 @@
 
 This is a repository for the data that goes with the mobile first version of SiteGenesis.
 
+# NPM scripts
+
+## Zip data
+`npm run zipdata` - removes old zipped data files and zips up the current demo data directory.
 
 # Install/Import
 To use this data with in a sandbox
@@ -27,9 +31,7 @@ Here is a list of the content assets used from the shared content library.
 |-------------------------|------|-------------------|-----------|
 |home-categories          |Home Categories| Homepage |Images that link to category pages, this is used by the content slot 'home-categories'.|
 |home-main                |Home Main| Homepage |Main image displayed on the homepage, used by the content slot 'home-main'.|
-|home-product-set-content |Home Product Set Content | Homepage |Content shown on the homepage that will reveal product tiles of products assigned to the 'home-product-set' slot.|
-|home-product-tile-content|Home page product tiles|Homepage| Content that is embeded within the product tiles, this content asset is used in the rendering template 'slots/product/homepage-product-slot.isml' for the slot 'home-products'|
-
+|home-product-set-content |Home Product Set Content | Homepage |Content links to a product set and is assigned to the 'home-product-set' slot.|
 
 
 # Slots
@@ -37,6 +39,5 @@ Here is a list of the content assets used from the shared content library.
 |-------------------------|------|-------------------|-----------|
 |home-categories          |slots/content/contentassetbody.isml| Homepage |This slot renders images that link to other category pages it uses the content asset 'home-categories'.|
 |home-main                |slots/content/contentassetbody.isml| Homepage |Main image displayed on the homepage, used by the content asset 'home-main'.|
-|home-product-set-content |slots/product/homepage-product-set-slot.isml| Homepage |This slot desiplays a product set and when clicked reveals product tiles belonging to the set.  Products used include 740357377041, 013742335422, 701642819431, 701644059262|
-|home-products|slots/product/homepage-product-slot.isml|Homepage| This slot shows product tiles on the homepage, and uses the rendering template products used are 701644179922, 701644329402, 701644391751, 701642991014, 750518699578|
+|home-product-set-content |slots/content/contentassetbody.isml| Homepage |This slot desiplays an image that links to a product set|
 
