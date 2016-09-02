@@ -6,8 +6,8 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "zipdata": "rm -r demo_data_no_hires_images.zip && zip -r demo_data_no_hires_images.zip demo_data_no_hires_images"
-
+    "zipData": "zip -r demo_data_no_hires_images.zip demo_data_no_hires_images",
+    "updateData": "rm -r demo_data_no_hires_images.zip && zip -r demo_data_no_hires_images.zip demo_data_no_hires_images"
   },
   "repository": {
     "type": "git",
