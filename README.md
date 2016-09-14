@@ -5,7 +5,10 @@ This is a repository for the data that goes with the mobile first version of Sit
 # NPM scripts
 
 ## Zip data
-`npm run zipdata` - removes old zipped data files and zips up the current demo data directory.
+`npm run zipData` - Zips up the data before it can be imported in a BM.
+
+`npm run updateData` - removes old zipped data files and zips up the current demo data directory.
+
 
 # Install/Import
 To use this data with in a sandbox
