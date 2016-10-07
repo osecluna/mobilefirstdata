@@ -490,11 +490,11 @@ Here you will find answers to your questions about shopping at our online store,
         <enabled-flag>true</enabled-flag>
         <content>
             <products>
-                <product product-id="701644179922"/>
                 <product product-id="701644329402"/>
-                <product product-id="701644391751"/>
-                <product product-id="701642991014"/>
+                <product product-id="701644391737"/>
                 <product product-id="750518699578"/>
+                <product product-id="25519318"/>
+                <product product-id="013742003154"/>
             </products>
         </content>
     </slot-configuration>
