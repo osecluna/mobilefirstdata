@@ -7711,14 +7711,11 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div data-tile-index='1'&gt;&#13;
-&lt;a href=''&gt;&#13;
-&lt;span&gt;Styles to Love&lt;/span&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href="$url('Home-Show')$"&gt;&#13;
+&lt;span class="largeText"&gt;Styles to Love&lt;/span&gt;&#13;
 &lt;br /&gt;&#13;
 &lt;span&gt;Only Online&lt;/span&gt;&#13;
-&lt;/a&gt;&#13;
-&#13;
-&lt;/div&gt;</custom-attribute>
+&lt;/a&gt;</custom-attribute>
         </custom-attributes>
     </content>
 
