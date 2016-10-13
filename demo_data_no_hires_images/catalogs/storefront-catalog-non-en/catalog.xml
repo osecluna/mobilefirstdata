@@ -3284,7 +3284,7 @@
         </custom-attributes>
     </category>
 
-    <category category-id="womens-jewlery-bracelets">
+    <category category-id="womens-jewelry-bracelets">
         <display-name xml:lang="x-default">Bracelets</display-name>
         <display-name xml:lang="fr-FR">Bracelets</display-name>
         <display-name xml:lang="it-IT">Braccialetti</display-name>
@@ -10463,45 +10463,45 @@
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25448070">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25448070">
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25534903">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25534903">
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25599640">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25599640">
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25599651">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25599651">
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25599659">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25599659">
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25720022">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25720022">
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25720037">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25720037">
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25720046"/>
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25720046"/>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25720050">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25720050">
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25720052">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25720052">
         <primary-flag>true</primary-flag>
     </category-assignment>
 
-    <category-assignment category-id="womens-jewlery-bracelets" product-id="25720057">
+    <category-assignment category-id="womens-jewelry-bracelets" product-id="25720057">
         <primary-flag>true</primary-flag>
     </category-assignment>
 

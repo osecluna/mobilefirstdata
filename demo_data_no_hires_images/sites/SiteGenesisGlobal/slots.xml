@@ -778,13 +778,13 @@ In questa sezione troverai tante risposte alle tue domande sullo shopping online
         </content>
     </slot-configuration>
 
-    <slot-configuration slot-id="cat-banner" context="category" context-id="womens-jewlery-bracelets" configuration-id="womens-bracelets" default="true" assigned-to-site="true">
+    <slot-configuration slot-id="cat-banner" context="category" context-id="womens-jewelry-bracelets" configuration-id="womens-bracelets" default="true" assigned-to-site="true">
         <description>Default banner for this category</description>
         <template>slots/category/cat-banner.isml</template>
         <enabled-flag>true</enabled-flag>
         <content>
             <categories>
-                <category category-id="womens-jewlery-bracelets"/>
+                <category category-id="womens-jewelry-bracelets"/>
             </categories>
         </content>
     </slot-configuration>
