@@ -7673,14 +7673,10 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href="$url('Home-Show')$"&gt;&#13;
-&lt;div class="main-image" style="background-image: url(images/homepage/car-spring.jpg?$staticlink$); "&gt;&#13;
-    &#13;
-        &lt;div class="banner-message"&gt;&#13;
-            &lt;h1 class="banner-text1"&gt;Summer Style&lt;/h1&gt;&#13;
-        &lt;/div&gt;&#13;
-&#13;
-&lt;/div&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href=&quot;$url(&apos;Home-Show&apos;)$&quot;&gt;
+&lt;div class=&quot;hero&quot; style=&quot;background-image: url(images/homepage/car-spring.jpg?$staticlink$); &quot;&gt;
+&lt;h1 class=&quot;page-title&quot;&gt;Summer Style&lt;/h1&gt;
+&lt;/div&gt;
 &lt;/a&gt;</custom-attribute>
         </custom-attributes>
         <folder-links>
@@ -7695,12 +7691,10 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href="$url('Home-Show')$"&gt;&#13;
-&lt;div class="set-image" style="background-image: url(images/homepage/set-sampleImage.jpg?$staticlink$); "&gt;&#13;
-        &lt;div class="banner-message"&gt;&#13;
-            &lt;h1 class="banner-text1"&gt;Shop the Style&lt;/h1&gt;&#13;
-        &lt;/div&gt;&#13;
-&lt;/div&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href=&quot;$url(&apos;Home-Show&apos;)$&quot;&gt;
+&lt;div class=&quot;hero slant-up&quot; style=&quot;background-image: url(images/homepage/set-sampleImage.jpg?$staticlink$); &quot;&gt;
+&lt;h1 class=&quot;page-title&quot;&gt;Shop the Style&lt;/h1&gt;
+&lt;/div&gt;
 &lt;/a&gt;</custom-attribute>
         </custom-attributes>
     </content>
