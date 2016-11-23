@@ -7185,24 +7185,24 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <page-attributes/>
         <custom-attributes>
             <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="col-sm-8 cat-row"&gt;&#13;
-  &lt;div class="col-sm-6 cat-cell cat-cell-1" style="background-image: url(images/homepage/sample2.jpeg?$staticlink$); "&gt;&#13;
+  &lt;div class="col-sm-6 cat-cell cat-cell-1" style="background-image: url(images/homepage/homepage-5.jpg?$staticlink$); "&gt;&#13;
     &lt;h4 class="hp-category-message"&gt;&#13;
       &lt;a href="$url('Search-Show','cgid','womens-jewelry')$"&gt;Wemons Jewelry&lt;/a&gt;&#13;
     &lt;/h4&gt;&#13;
   &lt;/div&gt;&#13;
-  &lt;div class="col-sm-6 cat-cell cat-cell-2" style="background-image: url(images/homepage/sample3.png?$staticlink$); "&gt;&#13;
+  &lt;div class="col-sm-6 cat-cell cat-cell-2" style="background-image: url(images/homepage/homepage-6.jpg?$staticlink$); "&gt;&#13;
     &lt;h4 class="hp-category-message"&gt;&#13;
         &lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;Mens Jackets&lt;/a&gt;&#13;
     &lt;/h4&gt;&#13;
   &lt;/div&gt;&#13;
-  &lt;div class="col-sm-12 cat-cellspan2" style="background-image: url(images/homepage/sampleimage3.jpg?$staticlink$); "&gt;&#13;
+  &lt;div class="col-sm-12 cat-cellspan2" style="background-image: url(images/homepage/homepage-1.jpg?$staticlink$); "&gt;&#13;
     &lt;h4 class="hp-promotion-message"&gt;&#13;
       &lt;a class="hp-promotion-message1" href="$url('Search-Show','cgid','newarrivals')$"&gt;Promotional Details&lt;/a&gt;&lt;br /&gt;&#13;
       &lt;a class="hp-promotion-message2" href="$url('Search-Show','cgid','newarrivals')$"&gt;Shop Red&lt;/a&gt;&#13;
     &lt;/h4&gt;&#13;
   &lt;/div&gt;&#13;
 &lt;/div&gt;&#13;
-&lt;div class="col-sm-4 cat-rowspan2" style="background-image: url(images/homepage/sampleimage4.jpg?$staticlink$); "&gt;&#13;
+&lt;div class="col-sm-4 cat-rowspan2" style="background-image: url(images/homepage/homepage-3.jpg?$staticlink$); "&gt;&#13;
     &lt;h4 class="hp-category-message"&gt;&#13;
         &lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;Mens Jackets&lt;/a&gt;&#13;
     &lt;/h4&gt;&#13;
@@ -7673,11 +7673,9 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href=&quot;$url(&apos;Home-Show&apos;)$&quot;&gt;
-&lt;div class=&quot;hero&quot; style=&quot;background-image: url(images/homepage/car-spring.jpg?$staticlink$); &quot;&gt;
-&lt;h1 class=&quot;page-title&quot;&gt;Summer Style&lt;/h1&gt;
-&lt;/div&gt;
-&lt;/a&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="hero" style="background-image: url(images/homepage/homepage-4.jpg?$staticlink$); "&gt;&#13;
+&lt;h1 class="page-title"&gt;Summer Style&lt;/h1&gt;&#13;
+&lt;/div&gt;</custom-attribute>
         </custom-attributes>
         <folder-links>
             <classification-link folder-id="home-page"/>
@@ -7691,10 +7689,10 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href=&quot;$url(&apos;Home-Show&apos;)$&quot;&gt;
-&lt;div class=&quot;hero slant-up&quot; style=&quot;background-image: url(images/homepage/set-sampleImage.jpg?$staticlink$); &quot;&gt;
-&lt;h1 class=&quot;page-title&quot;&gt;Shop the Style&lt;/h1&gt;
-&lt;/div&gt;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href="$url('Home-Show')$"&gt;&#13;
+&lt;div class="hero slant-up" style="background-image: url(images/homepage/homepage-2.jpg?$staticlink$); "&gt;&#13;
+&lt;h1 class="page-title"&gt;Shop the Style&lt;/h1&gt;&#13;
+&lt;/div&gt;&#13;
 &lt;/a&gt;</custom-attribute>
         </custom-attributes>
     </content>
