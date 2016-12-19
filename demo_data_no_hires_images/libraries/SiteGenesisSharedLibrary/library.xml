@@ -7185,28 +7185,35 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <page-attributes/>
         <custom-attributes>
             <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="col-sm-8 cat-row"&gt;&#13;
-  &lt;div class="col-sm-6 cat-cell cat-cell-1" style="background-image: url(images/homepage/homepage-5.jpg?$staticlink$); "&gt;&#13;
-    &lt;h4 class="hp-category-message"&gt;&#13;
-      &lt;a href="$url('Search-Show','cgid','womens-jewelry')$"&gt;Wemons Jewelry&lt;/a&gt;&#13;
-    &lt;/h4&gt;&#13;
-  &lt;/div&gt;&#13;
-  &lt;div class="col-sm-6 cat-cell cat-cell-2" style="background-image: url(images/homepage/homepage-6.jpg?$staticlink$); "&gt;&#13;
-    &lt;h4 class="hp-category-message"&gt;&#13;
-        &lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;Mens Jackets&lt;/a&gt;&#13;
-    &lt;/h4&gt;&#13;
-  &lt;/div&gt;&#13;
-  &lt;div class="col-sm-12 cat-cellspan2" style="background-image: url(images/homepage/homepage-1.jpg?$staticlink$); "&gt;&#13;
-    &lt;h4 class="hp-promotion-message"&gt;&#13;
-      &lt;a class="hp-promotion-message1" href="$url('Search-Show','cgid','newarrivals')$"&gt;Promotional Details&lt;/a&gt;&lt;br /&gt;&#13;
-      &lt;a class="hp-promotion-message2" href="$url('Search-Show','cgid','newarrivals')$"&gt;Shop Red&lt;/a&gt;&#13;
-    &lt;/h4&gt;&#13;
-  &lt;/div&gt;&#13;
+  &lt;a href="$url('Search-Show','cgid','womens-clothing-dresses')$"&gt;
+    &lt;div class="col-sm-6 cat-cell cat-cell-1 category-tile" style="background-image: url(images/homepage/homepage-5.jpg?$staticlink$); "&gt;&#13;
+      &lt;h3 class="hp-category-message"&gt;&#13;
+        Women's Dresses&#13;
+      &lt;/h3&gt;&#13;
+    &lt;/div&gt;&#13;
+  &lt;/a&gt;&#13;
+  &lt;a href="$url('Search-Show','cgid','womens-jewelry')$"&gt;
+    &lt;div class="col-sm-6 cat-cell cat-cell-2 category-tile" style="background-image: url(images/homepage/homepage-6.jpg?$staticlink$); "&gt;&#13;
+      &lt;h3 class="hp-category-message"&gt;&#13;
+        Women's Jewelry&#13;
+      &lt;/h3&gt;&#13;
+    &lt;/div&gt;&#13;
+  &lt;/a&gt;&#13;
+  &lt;a href="$url('Search-Show','cgid','newarrivals')$"&gt;
+    &lt;div class="col-sm-12 cat-cellspan2 category-tile" style="background-image: url(images/homepage/homepage-1.jpg?$staticlink$); "&gt;&#13;
+      &lt;h3 class="hp-promotion-message"&gt;&#13;
+        Shop Red&#13;
+      &lt;/h3&gt;&#13;
+    &lt;/div&gt;&#13;
+  &lt;/a&gt;&#13;
 &lt;/div&gt;&#13;
-&lt;div class="col-sm-4 cat-rowspan2" style="background-image: url(images/homepage/homepage-3.jpg?$staticlink$); "&gt;&#13;
-    &lt;h4 class="hp-category-message"&gt;&#13;
-        &lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;Mens Jackets&lt;/a&gt;&#13;
-    &lt;/h4&gt;&#13;
-&lt;/div&gt;</custom-attribute>
+&lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;
+  &lt;div class="col-sm-4 cat-rowspan2 category-tile" style="background-image: url(images/homepage/homepage-3.jpg?$staticlink$); "&gt;&#13;
+      &lt;h3 class="hp-category-message"&gt;&#13;
+          Men's Jackets&#13;
+      &lt;/h3&gt;&#13;
+  &lt;/div&gt;
+&lt;/a&gt;&#13;</custom-attribute>
         </custom-attributes>
     </content>
 
@@ -7703,7 +7710,7 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href="$url('Home-Show')$"&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href="$url('Search-Show','cgid','newarrivals')$"&gt;&#13;
 &lt;span class="largeText"&gt;Styles to Love&lt;/span&gt;&#13;
 &lt;br /&gt;&#13;
 &lt;span&gt;Only Online&lt;/span&gt;&#13;
