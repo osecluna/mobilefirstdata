@@ -1183,10 +1183,10 @@
                 </cost-per-item>
             </product-cost-group>
         </product-cost-groups>
-        <currency>GBP</currency>
         <custom-attributes>
             <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">3-7 Business Days</custom-attribute>
         </custom-attributes>
+        <currency>GBP</currency>
     </shipping-method>
 
     <shipping-method method-id="GBP005" default="false">
