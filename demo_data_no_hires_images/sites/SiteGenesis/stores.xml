@@ -45,6 +45,8 @@ Sun: 12pm - 6pm</store-hours>
         <country-code>US</country-code>
         <email>contact@downtowntvshop.com</email>
         <phone>+1-617-695-1565</phone>
+        <store-hours xml:lang="x-default">Mon - Sat: 10am - 9pm&lt;br /&gt;&#13;
+            Sun: 12pm - 6pm</store-hours>
         <latitude>42.3569512</latitude>
         <longitude>-71.05902600000002</longitude>
         <custom-attributes>
@@ -129,6 +131,8 @@ Sun: 12pm - 6pm</store-hours>
         <state-code>MA</state-code>
         <country-code>US</country-code>
         <phone>+1-617-888-7276</phone>
+        <store-hours xml:lang="x-default">Mon - Sat: 10am - 9pm&lt;br /&gt;&#13;
+            Sun: 12pm - 6pm</store-hours>
         <latitude>42.3403189</latitude>
         <longitude>-71.0817859</longitude>
         <custom-attributes>
@@ -177,6 +181,8 @@ Sun: 12pm - 6pm</store-hours>
         <state-code>NH</state-code>
         <country-code>US</country-code>
         <phone>+1-603-715-9773</phone>
+        <store-hours xml:lang="x-default">Mon - Sat: 10am - 9pm&lt;br /&gt;&#13;
+            Sun: 12pm - 6pm</store-hours>
         <latitude>42.99555650000001</latitude>
         <longitude>-71.45255480000003</longitude>
         <custom-attributes>
