@@ -6552,7 +6552,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Go to About Us"&gt;About Us&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Go to Privacy"&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Go to Terms"&gt;Terms&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$"title="Go to Jobs"&gt;Jobs&lt;/a&gt;&lt;/li&gt;&#13;
+                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Go to Jobs"&gt;Jobs&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h3 class="title"&gt;À propos&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
@@ -7184,36 +7184,48 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="col-sm-8 cat-row"&gt;&#13;
-  &lt;a href="$url('Search-Show','cgid','womens-clothing-dresses')$"&gt;
-    &lt;div class="col-sm-6 cat-cell cat-cell-1 category-tile" style="background-image: url(images/homepage/homepage-5.jpg?$staticlink$); "&gt;&#13;
-      &lt;h3 class="hp-category-message"&gt;&#13;
-        Women's Dresses&#13;
-      &lt;/h3&gt;&#13;
-    &lt;/div&gt;&#13;
-  &lt;/a&gt;&#13;
-  &lt;a href="$url('Search-Show','cgid','womens-jewelry')$"&gt;
-    &lt;div class="col-sm-6 cat-cell cat-cell-2 category-tile" style="background-image: url(images/homepage/homepage-6.jpg?$staticlink$); "&gt;&#13;
-      &lt;h3 class="hp-category-message"&gt;&#13;
-        Women's Jewelry&#13;
-      &lt;/h3&gt;&#13;
-    &lt;/div&gt;&#13;
-  &lt;/a&gt;&#13;
-  &lt;a href="$url('Search-Show','cgid','newarrivals')$"&gt;
-    &lt;div class="col-sm-12 cat-cellspan2 category-tile" style="background-image: url(images/homepage/homepage-1.jpg?$staticlink$); "&gt;&#13;
-      &lt;h3 class="hp-promotion-message"&gt;&#13;
-        Shop Red&#13;
-      &lt;/h3&gt;&#13;
-    &lt;/div&gt;&#13;
-  &lt;/a&gt;&#13;
-&lt;/div&gt;&#13;
-&lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;
-  &lt;div class="col-sm-4 cat-rowspan2 category-tile" style="background-image: url(images/homepage/homepage-3.jpg?$staticlink$); "&gt;&#13;
-      &lt;h3 class="hp-category-message"&gt;&#13;
-          Men's Jackets&#13;
-      &lt;/h3&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="col-sm-8"&gt;
+  &lt;div class="row no-gutters"&gt;
+    &lt;div class="col-sm-6"&gt;
+      &lt;a href="$url('Search-Show','cgid','womens-clothing-dresses')$"&gt;
+        &lt;div class="womens-dresses half-height category-tile" style="background-image: url(images/homepage/homepage-5.jpg?$staticlink$); "&gt;
+          &lt;h3 class="hp-category-message"&gt;
+            Women's Dresses
+          &lt;/h3&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="col-sm-6"&gt;
+      &lt;a href="$url('Search-Show','cgid','womens-jewelry')$"&gt;
+        &lt;div class="womens-jewelry half-height category-tile" style="background-image: url(images/homepage/homepage-6.jpg?$staticlink$); "&gt;
+          &lt;h3 class="hp-category-message"&gt;
+            Women's Jewelry
+          &lt;/h3&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
-&lt;/a&gt;&#13;</custom-attribute>
+  &lt;div class="row"&gt;
+    &lt;div class="col"&gt;
+      &lt;a href="$url('Search-Show','cgid','newarrivals')$"&gt;
+        &lt;div class="shop-red half-height category-tile" style="background-image: url(images/homepage/homepage-1.jpg?$staticlink$); "&gt;
+          &lt;h3 class="hp-promotion-message"&gt;
+            Shop Red
+          &lt;/h3&gt;
+        &lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="col"&gt;
+  &lt;a href="$url('Search-Show','cgid','mens-clothing-jackets')$"&gt;
+    &lt;div class="mens-jackets full-height category-tile" style="background-image: url(images/homepage/homepage-3.jpg?$staticlink$); "&gt;
+        &lt;h3 class="hp-category-message"&gt;
+            Men's Jackets
+        &lt;/h3&gt;
+    &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;</custom-attribute>
         </custom-attributes>
     </content>
 
