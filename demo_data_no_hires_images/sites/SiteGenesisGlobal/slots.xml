@@ -378,6 +378,17 @@ In questa sezione troverai tante risposte alle tue domande sullo shopping online
         </content>
     </slot-configuration>
 
+    <slot-configuration slot-id="footer-column" context="global" configuration-id="footer-social-email" assigned-to-site="true">
+        <description>Footer slot containing the social icons and email form.</description>
+        <template>slots/content/contentassetbody.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="footer-social-email"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+
     <slot-configuration slot-id="home-bottom-center" context="global" configuration-id="free-shipping-orders-over-150" assigned-to-site="true">
         <description>This is the free shipping promotion slot at the bottom of the home page.</description>
         <template>slots/content/homepage/home-bottom-center.isml</template>
@@ -396,11 +407,6 @@ In questa sezione troverai tante risposte alle tue domande sullo shopping online
         <content>
             <html>
                 <body xml:lang="x-default">&lt;div class="header-promotion"&gt;&lt;strong&gt;FREE 2-Day SHIPPING&lt;/strong&gt; FOR ORDERS OVER $300&lt;/div&gt;</body>
-                <body xml:lang="en-GB">&lt;div class="header-promotion"&gt;&lt;strong&gt;FREE 2-Day SHIPPING&lt;/strong&gt; FOR ORDERS OVER £300&lt;/div&gt;</body>
-                <body xml:lang="fr-FR">&lt;div class="header-promotion"&gt;&lt;strong&gt;LIVRAISON en 2 jours GRATUITE&lt;/strong&gt; POUR LES COMMANDES DE PLUS DE 300 €&lt;/div&gt;</body>
-                <body xml:lang="it-IT">&lt;div class="header-promotion"&gt;&lt;strong&gt;SPEDIZIONE GRATUITA entro 2 giorni&lt;/strong&gt; PER ORDINI SUPERIORI A € 300&lt;/div&gt;</body>
-                <body xml:lang="ja-JP">&lt;div class="header-promotion"&gt;ご注文金額が ¥30,000 を超えると &lt;strong&gt;2 日配送が無料&lt;/strong&gt;&lt;/div&gt;</body>
-                <body xml:lang="zh-CN">&lt;div class="header-promotion"&gt;超过 300 美元的订单&lt;strong&gt;免费 2 日送达&lt;/strong&gt;&lt;/div&gt;</body>
             </html>
         </content>
     </slot-configuration>
@@ -452,6 +458,43 @@ In questa sezione troverai tante risposte alle tue domande sullo shopping online
         </content>
     </slot-configuration>
 
+    <slot-configuration slot-id="home-categories" context="global" configuration-id="home-categories" default="true" assigned-to-site="true">
+        <description>Category links and images for the home page.</description>
+        <template>slots/content/contentassetbody.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="home-categories"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+
+    <slot-configuration slot-id="home-product-set" context="global" configuration-id="home-product-set" default="true" assigned-to-site="true">
+        <description>homepage product set(Spring Has Sprung) slot</description>
+        <template>slots/content/contentassetbody.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <content-assets>
+                <content-asset content-id="home-product-set-content"/>
+            </content-assets>
+        </content>
+    </slot-configuration>
+
+    <slot-configuration slot-id="home-products" context="global" configuration-id="home-products" default="true" assigned-to-site="true">
+        <description>Homepage product tiles slot.</description>
+        <template>slots/product/homepage-product-slot.isml</template>
+        <enabled-flag>true</enabled-flag>
+        <content>
+            <products>
+                <product product-id="701644329402"/>
+                <product product-id="701644391737"/>
+                <product product-id="750518699578"/>
+                <product product-id="25519318"/>
+                <product product-id="013742003154"/>
+            </products>
+        </content>
+    </slot-configuration>
+
     <slot-configuration slot-id="home-bottom-right" context="global" configuration-id="this-weeks-deals" default="true" assigned-to-site="true">
         <description>Product Carousel of This Weeks Deals</description>
         <template>slots/product/homerightcarousel.isml</template>
@@ -472,13 +515,13 @@ In questa sezione troverai tante risposte alle tue domande sullo shopping online
         </content>
     </slot-configuration>
 
-    <slot-configuration slot-id="home-main" context="global" configuration-id="homepage-jquery-cycle" default="true" assigned-to-site="true">
-        <description>Homepage Jquery Cycle</description>
-        <template>slots/content/homepage/homepageslider.isml</template>
+    <slot-configuration slot-id="home-main" context="global" configuration-id="homepage-main-image" default="true" assigned-to-site="true">
+        <description>Homepage main home page image</description>
+        <template>slots/content/contentassetbody.isml</template>
         <enabled-flag>true</enabled-flag>
         <content>
             <content-assets>
-                <content-asset content-id="home-cycle"/>
+                <content-asset content-id="home-main"/>
             </content-assets>
         </content>
     </slot-configuration>
@@ -625,18 +668,14 @@ In questa sezione troverai tante risposte alle tue domande sullo shopping online
         <template>slots/product/product_listing.isml</template>
         <enabled-flag>true</enabled-flag>
         <callout-msg xml:lang="x-default">Womens New Arrivals</callout-msg>
-        <callout-msg xml:lang="fr-FR">Nouveautés Femme</callout-msg>
-        <callout-msg xml:lang="it-IT">Nuovi arrivi Donna</callout-msg>
-        <callout-msg xml:lang="ja-JP">レディース新着商品</callout-msg>
-        <callout-msg xml:lang="zh-CN">女款新品</callout-msg>
         <content>
             <products>
-                <product product-id="fall-look"/>
-                <product product-id="25591494"/>
-                <product product-id="25744346"/>
-                <product product-id="701643407248"/>
-                <product product-id="25591116"/>
-                <product product-id="701642815136"/>
+                <product product-id="701644259280"/>
+                <product product-id="25697151"/>
+                <product product-id="25696513"/>
+                <product product-id="25695436"/>
+                <product product-id="25697561"/>
+                <product product-id="25695217"/>
             </products>
         </content>
     </slot-configuration>
