@@ -67,6 +67,13 @@
         </customer-groups>
     </campaign>
 
+    <campaign campaign-id="mobileFirstTest">
+        <enabled-flag>false</enabled-flag>
+        <campaign-scope>
+            <applicable-online/>
+        </campaign-scope>
+    </campaign>
+
     <global-promotion-settings>
         <global-excluded-products>
             <included-products>
@@ -2076,6 +2083,34 @@
         </order-promotion-rule>
     </promotion>
 
+    <promotion promotion-id="Test-Order-Level-Coupon">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">testOrderLevelCoupon</name>
+        <callout-msg xml:lang="x-default">Test 50% Off Order</callout-msg>
+        <details xml:lang="x-default">test for order level coupon details</details>
+        <order-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>883360541815</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <discount-only-qualifying-products>true</discount-only-qualifying-products>
+            <discounts condition-type="product-quantity">
+                <discount>
+                    <threshold>5</threshold>
+                    <percentage>50.0</percentage>
+                </discount>
+            </discounts>
+        </order-promotion-rule>
+    </promotion>
+
     <promotion-campaign-assignment promotion-id="$5_off_ties_promotion" campaign-id="5_off_ties_campaign">
         <qualifiers match-mode="any">
             <customer-groups/>
@@ -2395,6 +2430,17 @@
             <source-codes/>
             <coupons/>
         </qualifiers>
+    </promotion-campaign-assignment>
+
+    <promotion-campaign-assignment promotion-id="Test-Order-Level-Coupon" campaign-id="mobileFirstTest">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+        <coupons>
+            <coupon coupon-id="OrderLevel"/>
+        </coupons>
     </promotion-campaign-assignment>
 
 </promotions>
