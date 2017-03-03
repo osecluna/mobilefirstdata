@@ -20,6 +20,13 @@
         </coupons>
     </campaign>
 
+    <campaign campaign-id="Mobile First Coupon Test">
+        <enabled-flag>true</enabled-flag>
+        <campaign-scope>
+            <applicable-online/>
+        </campaign-scope>
+    </campaign>
+
     <campaign campaign-id="mens-clothing-dress-shirts">
         <description>This a campaign for the Mens Dress Shirts Category offering a specific banner as well as a 20% off dress shirts promotion, and a custom sort rule of product name ascending</description>
         <enabled-flag>false</enabled-flag>
@@ -65,13 +72,6 @@
         <customer-groups>
             <customer-group group-id="Everyone"/>
         </customer-groups>
-    </campaign>
-
-    <campaign campaign-id="mobileFirstTest">
-        <enabled-flag>false</enabled-flag>
-        <campaign-scope>
-            <applicable-online/>
-        </campaign-scope>
     </campaign>
 
     <global-promotion-settings>
@@ -1505,6 +1505,34 @@
         </product-promotion-rule>
     </promotion>
 
+    <promotion promotion-id="mobile-first-order-coupon-promotion-1">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">Order Level Coupon Test</name>
+        <callout-msg xml:lang="x-default">Test 50% Off Order</callout-msg>
+        <details xml:lang="x-default">Certain product my be excluded</details>
+        <order-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>883360541815</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <discount-only-qualifying-products>true</discount-only-qualifying-products>
+            <discounts condition-type="product-quantity">
+                <discount>
+                    <threshold>5</threshold>
+                    <percentage>50.0</percentage>
+                </discount>
+            </discounts>
+        </order-promotion-rule>
+    </promotion>
+
     <promotion promotion-id="FreeShippingForNumberAbove5">
         <enabled-flag>false</enabled-flag>
         <searchable-flag>false</searchable-flag>
@@ -1543,6 +1571,36 @@
                 <discount>
                     <threshold>5</threshold>
                     <free/>
+                </discount>
+            </discounts>
+        </shipping-promotion-rule>
+    </promotion>
+
+    <promotion promotion-id="mobile-first-shipping-coupon-promotion-1">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">Shipping Level Coupon Test</name>
+        <callout-msg xml:lang="x-default">Spend 500 and receive 50% off shipping</callout-msg>
+        <details xml:lang="x-default">Certain product may be excluded</details>
+        <shipping-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>740357377119</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <shipping-methods>
+                <method-id>001</method-id>
+            </shipping-methods>
+            <discounts condition-type="shipment-total">
+                <discount>
+                    <threshold>500.0</threshold>
+                    <percentage>50.0</percentage>
                 </discount>
             </discounts>
         </shipping-promotion-rule>
@@ -2083,34 +2141,6 @@
         </order-promotion-rule>
     </promotion>
 
-    <promotion promotion-id="Test-Order-Level-Coupon">
-        <enabled-flag>true</enabled-flag>
-        <archived-flag>false</archived-flag>
-        <searchable-flag>false</searchable-flag>
-        <exclusivity>no</exclusivity>
-        <name xml:lang="x-default">testOrderLevelCoupon</name>
-        <callout-msg xml:lang="x-default">Test 50% Off Order</callout-msg>
-        <details xml:lang="x-default">test for order level coupon details</details>
-        <order-promotion-rule>
-            <qualifying-products>
-                <included-products>
-                    <condition-group>
-                        <product-id-condition operator="is equal">
-                            <product-id>883360541815</product-id>
-                        </product-id-condition>
-                    </condition-group>
-                </included-products>
-            </qualifying-products>
-            <discount-only-qualifying-products>true</discount-only-qualifying-products>
-            <discounts condition-type="product-quantity">
-                <discount>
-                    <threshold>5</threshold>
-                    <percentage>50.0</percentage>
-                </discount>
-            </discounts>
-        </order-promotion-rule>
-    </promotion>
-
     <promotion-campaign-assignment promotion-id="$5_off_ties_promotion" campaign-id="5_off_ties_campaign">
         <qualifiers match-mode="any">
             <customer-groups/>
@@ -2352,12 +2382,34 @@
         </qualifiers>
     </promotion-campaign-assignment>
 
+    <promotion-campaign-assignment promotion-id="mobile-first-order-coupon-promotion-1" campaign-id="Mobile First Coupon Test">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+        <coupons>
+            <coupon coupon-id="OrderLevel"/>
+        </coupons>
+    </promotion-campaign-assignment>
+
     <promotion-campaign-assignment promotion-id="FreeShippingForNumberAbove5" campaign-id="Automation">
         <qualifiers match-mode="any">
             <customer-groups/>
             <source-codes/>
             <coupons/>
         </qualifiers>
+    </promotion-campaign-assignment>
+
+    <promotion-campaign-assignment promotion-id="mobile-first-shipping-coupon-promotion-1" campaign-id="Mobile First Coupon Test">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+        <coupons>
+            <coupon coupon-id="shipping"/>
+        </coupons>
     </promotion-campaign-assignment>
 
     <promotion-campaign-assignment promotion-id="ps3bundle-50off" campaign-id="electronics-promotions">
@@ -2430,17 +2482,6 @@
             <source-codes/>
             <coupons/>
         </qualifiers>
-    </promotion-campaign-assignment>
-
-    <promotion-campaign-assignment promotion-id="Test-Order-Level-Coupon" campaign-id="mobileFirstTest">
-        <qualifiers match-mode="any">
-            <customer-groups/>
-            <source-codes/>
-            <coupons/>
-        </qualifiers>
-        <coupons>
-            <coupon coupon-id="OrderLevel"/>
-        </coupons>
     </promotion-campaign-assignment>
 
 </promotions>
