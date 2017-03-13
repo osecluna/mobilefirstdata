@@ -74,6 +74,16 @@
         </customer-groups>
     </campaign>
 
+    <campaign campaign-id="Mobile First No Coupon Test">
+        <enabled-flag>true</enabled-flag>
+        <campaign-scope>
+            <applicable-online/>
+        </campaign-scope>
+        <customer-groups>
+            <customer-group group-id="Everyone"/>
+        </customer-groups>
+    </campaign>
+
     <global-promotion-settings>
         <global-excluded-products>
             <included-products>
@@ -2141,6 +2151,65 @@
         </order-promotion-rule>
     </promotion>
 
+    <promotion promotion-id="mobile-first-order-no-coupon-promotion-1">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">Order Level Test</name>
+        <callout-msg xml:lang="x-default">Buy 3 get 25% off order</callout-msg>
+        <details xml:lang="x-default">Certain product my be excluded</details>
+        <order-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>883360543307</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <discount-only-qualifying-products>false</discount-only-qualifying-products>
+            <discounts condition-type="product-quantity">
+                <discount>
+                    <threshold>3</threshold>
+                    <percentage>25.0</percentage>
+                </discount>
+            </discounts>
+        </order-promotion-rule>
+    </promotion>
+
+    <promotion promotion-id="mobile-first-shipping-no-coupon-promotion-1">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">Shipping Level Test</name>
+        <callout-msg xml:lang="x-default">Spend $100 and get 25% off shipping</callout-msg>
+        <details xml:lang="x-default">Certain product my be excluded</details>
+        <shipping-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>740357447164</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <shipping-methods>
+                <method-id>002</method-id>
+            </shipping-methods>
+            <prohibit-nonqualifying-products>false</prohibit-nonqualifying-products>
+            <discounts condition-type="product-quantity">
+                <discount>
+                    <threshold>2</threshold>
+                    <percentage>25.0</percentage>
+                </discount>
+            </discounts>
+        </shipping-promotion-rule>
+    </promotion>
+
     <promotion-campaign-assignment promotion-id="$5_off_ties_promotion" campaign-id="5_off_ties_campaign">
         <qualifiers match-mode="any">
             <customer-groups/>
@@ -2477,6 +2546,22 @@
     </promotion-campaign-assignment>
 
     <promotion-campaign-assignment promotion-id="PromotionTest_20%offOrderAmountOver200" campaign-id="PromotionTests">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+    </promotion-campaign-assignment>
+
+    <promotion-campaign-assignment promotion-id="mobile-first-order-no-coupon-promotion-1" campaign-id="Mobile First No Coupon Test">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+    </promotion-campaign-assignment>
+
+    <promotion-campaign-assignment promotion-id="mobile-first-shipping-no-coupon-promotion-1" campaign-id="Mobile First No Coupon Test">
         <qualifiers match-mode="any">
             <customer-groups/>
             <source-codes/>
