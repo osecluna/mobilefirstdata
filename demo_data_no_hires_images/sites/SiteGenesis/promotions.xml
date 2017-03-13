@@ -896,6 +896,68 @@
             </discounts>
         </order-promotion-rule>
     </promotion>
+    
+    <promotion promotion-id="mobile-first-order-approaching-discount-promotion-1">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">Approaching Order Discount Test</name>
+        <callout-msg xml:lang="x-default">20% off on your order</callout-msg>
+        <details xml:lang="x-default">Get a discount on the order</details>
+        <order-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>799927767720</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <discount-only-qualifying-products>false</discount-only-qualifying-products>
+            <discounts condition-type="order-total">
+                <discount>
+                    <threshold>100.0</threshold>
+                    <percentage>20.0</percentage>
+                </discount>
+            </discounts>
+            <enable-upsells>true</enable-upsells>
+            <upsell-threshold>25.0</upsell-threshold>
+        </order-promotion-rule>
+    </promotion>
+    
+    <promotion promotion-id="mobile-first-shipping-approaching-discount-promotion-1">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">Approaching Shipping Discount Test</name>
+        <callout-msg xml:lang="x-default">Free Shipping with USPS (7-10 Business Days)</callout-msg>
+        <details xml:lang="x-default">Get free shipping</details>
+        <shipping-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>799927767720</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <shipping-methods>
+                <method-id>021</method-id>
+            </shipping-methods>
+            <discounts condition-type="shipment-total">
+                <discount>
+                    <threshold>100.0</threshold>
+                    <free/>
+                </discount>
+            </discounts>
+            <enable-upsells>true</enable-upsells>
+            <upsell-threshold>75.0</upsell-threshold>
+        </shipping-promotion-rule>
+    </promotion>
 
     <promotion promotion-id="$50offOrderCountAbove5">
         <enabled-flag>false</enabled-flag>
@@ -2396,7 +2458,23 @@
             <coupons/>
         </qualifiers>
     </promotion-campaign-assignment>
-
+    
+    <promotion-campaign-assignment promotion-id="mobile-first-order-approaching-discount-promotion-1" campaign-id="Mobile First No Coupon Test">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+    </promotion-campaign-assignment>
+    
+    <promotion-campaign-assignment promotion-id="mobile-first-shipping-approaching-discount-promotion-1" campaign-id="Mobile First No Coupon Test">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+    </promotion-campaign-assignment>
+    
     <promotion-campaign-assignment promotion-id="ChoiceOfBonusProductOnOrderOfAmountAbove100" campaign-id="Automation">
         <qualifiers match-mode="any">
             <customer-groups/>
@@ -2608,3 +2686,4 @@
     </promotion-campaign-assignment>
 
 </promotions>
+
