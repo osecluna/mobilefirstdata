@@ -47,8 +47,8 @@ Here is a list of the content assets used from the shared content library.
 # Promotions
 | ID                                          | Qualifying Products | Coupon     | Campaign                    |
 |---------------------------------------------|---------------------|------------|-----------------------------|
-| mobile-first-order-no-coupon-promotion-1    | 883360543307        | orderLevel | Mobile First Coupon Test    |
+| mobile-first-order-coupon-promotion-1       | 883360541815        | orderLevel | Mobile First Coupon Test    |
 | mobile-first-shipping-coupon-promotion-1    | 740357377119        | shipping   | Mobile First Coupon Test    |
 | mobile-first-product-coupon-promotion-1     | 682875719029        | product    | Mobile First Coupon Test    |
-| mobile-first-order-coupon-promotion-1       | 883360541815        |            | Mobile First No Coupon Test |
+| mobile-first-order-no-coupon-promotion-1    | 883360543307        |            | Mobile First No Coupon Test |
 | mobile-first-shipping-no-coupon-promotion-1 | 740357447164        |            | Mobile First No Coupon Test |
