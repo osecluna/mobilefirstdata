@@ -2210,6 +2210,33 @@
         </shipping-promotion-rule>
     </promotion>
 
+    <promotion promotion-id="mobile-first-product-coupon-promotion-1">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">Product Level Coupon Test</name>
+        <callout-msg xml:lang="x-default">Test 50% Off Product with coupon</callout-msg>
+        <details xml:lang="x-default">Get 50% product when you buy 3 or more with coupon</details>
+        <product-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>682875719029</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <discounts condition-type="product-quantity">
+                <discount>
+                    <threshold>3</threshold>
+                    <percentage>50.0</percentage>
+                </discount>
+            </discounts>
+        </product-promotion-rule>
+    </promotion>
+
     <promotion-campaign-assignment promotion-id="$5_off_ties_promotion" campaign-id="5_off_ties_campaign">
         <qualifiers match-mode="any">
             <customer-groups/>
@@ -2567,6 +2594,17 @@
             <source-codes/>
             <coupons/>
         </qualifiers>
+    </promotion-campaign-assignment>
+
+    <promotion-campaign-assignment promotion-id="mobile-first-product-coupon-promotion-1" campaign-id="Mobile First Coupon Test">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+        <coupons>
+            <coupon coupon-id="product"/>
+        </coupons>
     </promotion-campaign-assignment>
 
 </promotions>

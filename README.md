@@ -44,3 +44,11 @@ Here is a list of the content assets used from the shared content library.
 |home-main                |slots/content/contentassetbody.isml| Homepage |Main image displayed on the homepage, used by the content asset 'home-main'.|
 |home-product-set-content |slots/content/contentassetbody.isml| Homepage |This slot desiplays an image that links to a product set|
 
+# Promotions
+| ID                                          | Qualifying Products | Coupon     | Campaign                    |
+|---------------------------------------------|---------------------|------------|-----------------------------|
+| mobile-first-order-no-coupon-promotion-1    | 883360543307        | orderLevel | Mobile First Coupon Test    |
+| mobile-first-shipping-coupon-promotion-1    | 740357377119        | shipping   | Mobile First Coupon Test    |
+| mobile-first-product-coupon-promotion-1     | 682875719029        | product    | Mobile First Coupon Test    |
+| mobile-first-order-coupon-promotion-1       | 883360541815        |            | Mobile First No Coupon Test |
+| mobile-first-shipping-no-coupon-promotion-1 | 740357447164        |            | Mobile First No Coupon Test |
