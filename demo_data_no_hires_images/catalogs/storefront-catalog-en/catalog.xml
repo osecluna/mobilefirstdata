@@ -8720,6 +8720,10 @@
         <primary-flag>true</primary-flag>
     </category-assignment>
 
+    <category-assignment category-id="womens-clothing-dresses" product-id="25592201">
+        <primary-flag>true</primary-flag>
+    </category-assignment>
+
     <category-assignment category-id="womens-clothing-dresses" product-id="25592211">
         <primary-flag>true</primary-flag>
     </category-assignment>
@@ -10475,6 +10479,18 @@
     </category-assignment>
 
     <category-assignment category-id="womens-outfits" product-id="fall-look">
+        <primary-flag>true</primary-flag>
+    </category-assignment>
+
+    <category-assignment category-id="womens-outfits" product-id="miscellaneous">
+        <primary-flag>true</primary-flag>
+    </category-assignment>
+
+    <category-assignment category-id="womens-outfits" product-id="mix-and-match">
+        <primary-flag>true</primary-flag>
+    </category-assignment>
+
+    <category-assignment category-id="womens-outfits" product-id="random">
         <primary-flag>true</primary-flag>
     </category-assignment>
 

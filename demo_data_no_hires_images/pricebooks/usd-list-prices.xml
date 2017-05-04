@@ -593,6 +593,13 @@
                 <amount quantity="1">135.00</amount>
             </price-table>
 
+            <price-table product-id="25592201">
+                <amount quantity="1">128.00</amount>
+                <amount quantity="3">100.00</amount>
+                <amount quantity="5">80.00</amount>
+                <price-info>List prices</price-info>
+            </price-table>
+
             <price-table product-id="25599642">
                 <amount quantity="1">12.00</amount>
                 <amount quantity="3">10.00</amount>
@@ -1599,7 +1606,7 @@
             </price-table>
 
             <price-table product-id="701642815112">
-                <amount quantity="1">89.00</amount>
+                <amount quantity="1">70.00</amount>
             </price-table>
 
             <price-table product-id="701642815129">
@@ -7982,7 +7989,15 @@
                 <amount quantity="1">128.00</amount>
             </price-table>
 
+            <price-table product-id="701643843337">
+                <amount quantity="1">128.00</amount>
+            </price-table>
+
             <price-table product-id="701643843343">
+                <amount quantity="1">128.00</amount>
+            </price-table>
+
+            <price-table product-id="701643843344">
                 <amount quantity="1">128.00</amount>
             </price-table>
 
@@ -7990,7 +8005,15 @@
                 <amount quantity="1">128.00</amount>
             </price-table>
 
+            <price-table product-id="701643843351">
+                <amount quantity="1">128.00</amount>
+            </price-table>
+
             <price-table product-id="701643843367">
+                <amount quantity="1">128.00</amount>
+            </price-table>
+
+            <price-table product-id="701643843368">
                 <amount quantity="1">128.00</amount>
             </price-table>
 
@@ -7998,11 +8021,23 @@
                 <amount quantity="1">128.00</amount>
             </price-table>
 
+            <price-table product-id="701643843375">
+                <amount quantity="1">128.00</amount>
+            </price-table>
+
             <price-table product-id="701643843381">
                 <amount quantity="1">128.00</amount>
             </price-table>
 
+            <price-table product-id="701643843382">
+                <amount quantity="1">128.00</amount>
+            </price-table>
+
             <price-table product-id="701643843398">
+                <amount quantity="1">128.00</amount>
+            </price-table>
+
+            <price-table product-id="701643843399">
                 <amount quantity="1">128.00</amount>
             </price-table>
 
