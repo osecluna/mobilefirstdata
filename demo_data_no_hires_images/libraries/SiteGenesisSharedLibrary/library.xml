@@ -6595,7 +6595,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a class="title" href="${'#'}"&gt;Account&lt;/a&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a class="title" href="#"&gt;Account&lt;/a&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="Go to My Account"&gt;My Account&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Go to Check Order"&gt;Check Order&lt;/a&gt;&lt;/li&gt;&#13;
