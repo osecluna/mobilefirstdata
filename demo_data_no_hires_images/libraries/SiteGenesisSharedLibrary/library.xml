@@ -6547,7 +6547,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3 class="title"&gt;About&lt;/h3&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a class="title" href="#"&gt;About&lt;/a&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Go to About Us"&gt;About Us&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Go to Privacy"&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;
@@ -6595,7 +6595,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3 class="title"&gt;Account&lt;/h3&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a class="title" href="${'#'}"&gt;Account&lt;/a&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="Go to My Account"&gt;My Account&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Go to Check Order"&gt;Check Order&lt;/a&gt;&lt;/li&gt;&#13;
@@ -6741,7 +6741,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3 class="title"&gt;Customer Service&lt;/h3&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a class="title" href="#"&gt;Customer Service&lt;/a&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsUrl('CustomerService-ContactUs')$" title="Go to Contact Us"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftCert-Purchase')$" title="Go to Gift Certificates"&gt;Gift Certificates&lt;/a&gt;&lt;/li&gt;&#13;
