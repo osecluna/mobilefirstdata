@@ -9,7 +9,7 @@ This is a repository for the data that goes with the mobile first version of Sit
 
 `npm run updateData` - removes old zipped data files and zips up the current demo data directory.
 
-# Product Type : 
+# Product Types : 
 1. Simple Product with no variant
 2. Simple Product with single variant
 3. Simple Product with multiple variants
@@ -19,7 +19,7 @@ This is a repository for the data that goes with the mobile first version of Sit
 7. product options (electronics) 
 
 
-# Price Type :
+# Price Types :
 1. List Price
 2. Sale Price
 3. Promotion Price
