@@ -9,6 +9,25 @@ This is a repository for the data that goes with the mobile first version of Sit
 
 `npm run updateData` - removes old zipped data files and zips up the current demo data directory.
 
+# Product Type : 
+1. Simple Product with no variant
+2. Simple Product with single variant
+3. Simple Product with multiple variants
+4. product Set
+5. product Bundles
+6. variation group (not introduce yet as of May 2017)
+7. product options (electronics) 
+
+
+# Price Type :
+1. List Price
+2. Sale Price
+3. Promotion Price
+3. Price range
+4. Tiered Price. (this is not working due to platform limitation) 
+5. option price. 
+
+
 
 # Install/Import
 To use this data with in a sandbox
