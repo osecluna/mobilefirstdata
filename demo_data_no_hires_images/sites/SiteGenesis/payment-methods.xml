@@ -15,7 +15,7 @@
         <name xml:lang="it-IT">Certificato regalo</name>
         <name xml:lang="ja-JP">ギフト券</name>
         <name xml:lang="zh-CN">礼券</name>
-        <enabled-flag>true</enabled-flag>
+        <enabled-flag>false</enabled-flag>
         <processor-id>BASIC_GIFT_CERTIFICATE</processor-id>
     </payment-method>
 
@@ -35,7 +35,7 @@
         <name xml:lang="it-IT">PayPal</name>
         <name xml:lang="ja-JP">PayPal</name>
         <name xml:lang="zh-CN">PayPal</name>
-        <enabled-flag>true</enabled-flag>
+        <enabled-flag>false</enabled-flag>
         <processor-id>PAYPAL_EXPRESS</processor-id>
     </payment-method>
 
@@ -45,7 +45,7 @@
         <name xml:lang="it-IT">Bill Me Later</name>
         <name xml:lang="ja-JP">Bill Me Later</name>
         <name xml:lang="zh-CN">给我发送账单</name>
-        <enabled-flag>true</enabled-flag>
+        <enabled-flag>false</enabled-flag>
         <processor-id>CYBERSOURCE_BML</processor-id>
     </payment-method>
 
