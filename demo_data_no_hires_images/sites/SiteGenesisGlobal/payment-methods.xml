@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <payment-settings xmlns="http://www.demandware.com/xml/impex/paymentsettings/2009-09-15">
+    <payment-method method-id="DW_APPLE_PAY">
+        <name xml:lang="x-default">Apple Pay</name>
+        <enabled-flag>false</enabled-flag>
+    </payment-method>
+
+    <payment-method method-id="DW_ANDROID_PAY">
+        <name xml:lang="x-default">Android Pay</name>
+        <enabled-flag>false</enabled-flag>
+    </payment-method>
+
     <payment-method method-id="BANK_TRANSFER">
         <name xml:lang="x-default">Bank Transfer</name>
         <name xml:lang="fr-FR">Virement bancaire</name>
@@ -15,7 +25,7 @@
         <name xml:lang="it-IT">Certificato regalo</name>
         <name xml:lang="ja-JP">ギフト券</name>
         <name xml:lang="zh-CN">礼券</name>
-        <enabled-flag>false</enabled-flag>
+        <enabled-flag>true</enabled-flag>
         <processor-id>BASIC_GIFT_CERTIFICATE</processor-id>
     </payment-method>
 
@@ -35,7 +45,7 @@
         <name xml:lang="it-IT">PayPal</name>
         <name xml:lang="ja-JP">PayPal</name>
         <name xml:lang="zh-CN">PayPal</name>
-        <enabled-flag>false</enabled-flag>
+        <enabled-flag>true</enabled-flag>
         <processor-id>PAYPAL_EXPRESS</processor-id>
     </payment-method>
 
@@ -44,8 +54,8 @@
         <name xml:lang="fr-FR">Bill Me Later</name>
         <name xml:lang="it-IT">Bill Me Later</name>
         <name xml:lang="ja-JP">Bill Me Later</name>
-        <name xml:lang="zh-CN">给我发送账单</name>
-        <enabled-flag>false</enabled-flag>
+        <name xml:lang="zh-CN">Bill Me Later</name>
+        <enabled-flag>true</enabled-flag>
         <processor-id>CYBERSOURCE_BML</processor-id>
     </payment-method>
 
@@ -73,7 +83,7 @@
         <name xml:lang="fr-FR">Visa</name>
         <name xml:lang="it-IT">Visa</name>
         <name xml:lang="ja-JP">Visa</name>
-        <name xml:lang="zh-CN">Visa</name>
+        <name xml:lang="zh-CN">Visa（威士卡）</name>
         <enabled-flag>true</enabled-flag>
         <card-number-settings>
             <enable-checksum-verification>true</enable-checksum-verification>
@@ -132,7 +142,7 @@
         <name xml:lang="fr-FR">Discover</name>
         <name xml:lang="it-IT">Discover</name>
         <name xml:lang="ja-JP">Discover</name>
-        <name xml:lang="zh-CN">Discover</name>
+        <name xml:lang="zh-CN">Discover（发现卡）</name>
         <enabled-flag>true</enabled-flag>
         <card-number-settings>
             <enable-checksum-verification>true</enable-checksum-verification>
