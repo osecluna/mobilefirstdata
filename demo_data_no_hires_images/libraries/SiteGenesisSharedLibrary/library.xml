@@ -792,7 +792,7 @@ Per ulteriori informazioni visita le pagine &lt;a title="Contenuto Chi siamo" hr
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;h1 class="content-header"&gt;公司&lt;/h1&gt;&#13;
 &lt;h2&gt;一切皆因一系列的意见而开始：&lt;/h2&gt;      &#13;
 &lt;ul&gt;&#13;
-&lt;li&gt;eCommerce销售和营销创新可以产生收益，而大多数企业仅仅为维持现有基础设施就要拿出80%的预算。&lt;/li&gt;&#13;
+&lt;li&gt;eCommerce 的销售和营销创新可以产生收益，而大多数企业仅仅为维持现有基础设施就要拿出 80% 的预算。&lt;/li&gt;&#13;
 &lt;li&gt;eCommerce 的发展步伐日新月异，而大多数企业只是原地踏步。&lt;/li&gt;&#13;
 &lt;li&gt;商家和营销人员要花费比实际销售和营销自己业务多得多的时间来追逐外包供应商和内部 IT 组织，对此他们感到无所适从。&lt;/li&gt;&#13;
 &lt;/ul&gt; &#13;
@@ -7947,7 +7947,7 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
 &lt;/a&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;a href="$url('Home-Show')$"&gt;&#13;
 &lt;div class="hero slant-up" style="background-image: url(images/homepage/homepage-2.jpg?$staticlink$); "&gt;&#13;
-&lt;h1 class="page-title"&gt;こちらのスタイルのお買い物: &lt;/h1&gt;&#13;
+&lt;h1 class="page-title"&gt;お好みのスタイルをチョイス&lt;/h1&gt;&#13;
 &lt;/div&gt;&#13;
 &lt;/a&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;a href="$url('Home-Show')$"&gt;&#13;
