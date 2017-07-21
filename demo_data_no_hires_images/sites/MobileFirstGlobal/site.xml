@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site xmlns="http://www.demandware.com/xml/impex/site/2007-04-30" site-id="SiteGenesisGlobal">
-    <name>SiteGenesisGlobal</name>
+<site xmlns="http://www.demandware.com/xml/impex/site/2007-04-30" site-id="MobileFirstGlobal">
+    <name>MobileFirstGlobal</name>
     <currency>GBP</currency>
     <taxation>gross</taxation>
     <custom-cartridges>app_storefront_base</custom-cartridges>

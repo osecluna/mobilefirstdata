@@ -4595,19 +4595,11 @@
             <attribute-group group-id="Storefront Configs">
                 <display-name xml:lang="x-default">Storefront Configurations</display-name>
                 <attribute attribute-id="listPriceDefault"/>
-                <attribute attribute-id="disableResponsiveDesign"/>
                 <attribute attribute-id="GoogleVerificationTag"/>
                 <attribute attribute-id="buildNotificationEmailList"/>
-                <attribute attribute-id="slideshoweffect"/>
-                <attribute attribute-id="enableInfiniteScroll"/>
-                <attribute attribute-id="enableMultiShipping"/>
                 <attribute attribute-id="enableStorePickUp"/>
                 <attribute attribute-id="countryCode"/>
-                <attribute attribute-id="storeLookupUnit"/>
-                <attribute attribute-id="storeLookupMaxDistance"/>
                 <attribute attribute-id="customerServiceEmail"/>
-		        <attribute attribute-id="rateLimiterThreshold"/>
-                <attribute attribute-id="checkTLS"/>
                 <attribute attribute-id="mapAPI"/>
             </attribute-group>
         </group-definitions>

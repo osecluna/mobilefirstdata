@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="SiteGenesisSharedLibrary">
+<library xmlns="http://www.demandware.com/xml/impex/library/2006-10-31" library-id="MobileFirstSharedLibrary">
     <folder folder-id="root">
         <online-flag>true</online-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">SiteGenesis Online Store</page-title>
-            <page-title xml:lang="fr-FR">Boutique en ligne SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Negozio online SiteGenesis</page-title>
-            <page-title xml:lang="ja-JP">SiteGenesis オンラインストア</page-title>
-            <page-title xml:lang="zh-CN">SiteGenesis 网上商店</page-title>
+            <page-title xml:lang="x-default">MobileFirst Online Store</page-title>
+            <page-title xml:lang="fr-FR">Boutique en ligne MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Negozio online MobileFirst</page-title>
+            <page-title xml:lang="ja-JP">MobileFirst オンラインストア</page-title>
+            <page-title xml:lang="zh-CN">MobileFirst 网上商店</page-title>
             <page-description xml:lang="x-default">Online shopping with the leader in on-demand eCommerce solutions.</page-description>
             <page-description xml:lang="fr-FR">Achat en ligne avec le leader des solutions e-commerce à la demande.</page-description>
             <page-description xml:lang="it-IT">Shopping online con il leader delle soluzioni di e-commerce on-demand.</page-description>
@@ -410,7 +410,7 @@
 &lt;h2&gt;&amp;nbsp;&lt;span style="color: rgb(86, 79, 71); "&gt;Shipping |&lt;/span&gt;&amp;nbsp;&lt;span style="color: rgb(225, 185, 149);"&gt;Free 2 Day Shipping on Orders over $300&lt;/span&gt;&lt;/h2&gt;&#13;
 &lt;hr /&gt;&#13;
 &lt;h2&gt;Free 2 Day Shipping on Orders over $300&lt;/h2&gt;&#13;
-&lt;p style="text-align: left;"&gt;SiteGenesis is offering Free 2 Day Shipping an any orders over $300 to the contiguous states. Free shipping offer is limited to 2 Day Shipping Only. &lt;em&gt;Free shipping offer not valid for AK, HI, or P.O. Boxes. &lt;/em&gt;Free shipping is determined by the merchandise total after discounts are applied.&lt;/p&gt;&#13;
+&lt;p style="text-align: left;"&gt;MobileFirst is offering Free 2 Day Shipping an any orders over $300 to the contiguous states. Free shipping offer is limited to 2 Day Shipping Only. &lt;em&gt;Free shipping offer not valid for AK, HI, or P.O. Boxes. &lt;/em&gt;Free shipping is determined by the merchandise total after discounts are applied.&lt;/p&gt;&#13;
 &lt;h2&gt;Shipping Bands&lt;/h2&gt;&#13;
 &lt;table class="shippingpromotable" summary="Shipping Promotion Table"&gt;&#13;
     &lt;tbody&gt;&#13;
@@ -452,7 +452,7 @@
 &lt;h2&gt; &lt;span style="color: rgb(86, 79, 71); "&gt;Livraison |&lt;/span&gt; &lt;span style="color: rgb(225, 185, 149);"&gt;Livraison en 2 jours gratuite pour les commandes de plus de 300 €&lt;/span&gt;&lt;/h2&gt;&#13;
 &lt;hr /&gt;&#13;
 &lt;h2&gt;Livraison gratuite en 2 jours pour les commandes supérieures à 300 euros&lt;/h2&gt;&#13;
-&lt;p style="text-align: left;"&gt;SiteGenesis vous offre la livraison en 2 jours pour toute commande supérieure à 300 euros, à destination des États contigus. Cette offre est limitée aux commandes livrées en 2 jours. &lt;em&gt;Offre de livraison gratuite non valable pour l'Arkansas, Hawaï et les boîtes postales. &lt;/em&gt;La livraison gratuite est déterminée par le total de la commande, après déduction des remises.&lt;/p&gt;&#13;
+&lt;p style="text-align: left;"&gt;MobileFirst vous offre la livraison en 2 jours pour toute commande supérieure à 300 euros, à destination des États contigus. Cette offre est limitée aux commandes livrées en 2 jours. &lt;em&gt;Offre de livraison gratuite non valable pour l'Arkansas, Hawaï et les boîtes postales. &lt;/em&gt;La livraison gratuite est déterminée par le total de la commande, après déduction des remises.&lt;/p&gt;&#13;
 &lt;h2&gt;Formules de livraison&lt;/h2&gt;&#13;
 &lt;table class="shippingpromotable" summary="Shipping Promotion Table"&gt;&#13;
     &lt;tbody&gt;&#13;
@@ -494,7 +494,7 @@
 &lt;h2&gt; &lt;span style="color: rgb(86, 79, 71); "&gt;Spedizione |&lt;/span&gt; &lt;span style="color: rgb(225, 185, 149);"&gt;Spedizione gratuita entro 2 giorni per ordini superiori a € 300&lt;/span&gt;&lt;/h2&gt;&#13;
 &lt;hr /&gt;&#13;
 &lt;h2&gt;Spedizione gratuita entro 2 giorni per ordini superiori a € 300&lt;/h2&gt;&#13;
-&lt;p style="text-align: left;"&gt;SiteGenesis offre la spedizione gratuita entro 2 giorni su tutti gli ordini superiori a € 300 destinati agli stati limitrofi. L'offerta di spedizione gratuita è limitata esclusivamente alla Spedizione entro 2 giorni. &lt;em&gt;Offerta di spedizione gratuita non valida per AK, HI o caselle postali. &lt;/em&gt;L'idoneità per usufruire della spedizione gratuita viene determinata in base al totale della merce acquistata al netto degli sconti.&lt;/p&gt;&#13;
+&lt;p style="text-align: left;"&gt;MobileFirst offre la spedizione gratuita entro 2 giorni su tutti gli ordini superiori a € 300 destinati agli stati limitrofi. L'offerta di spedizione gratuita è limitata esclusivamente alla Spedizione entro 2 giorni. &lt;em&gt;Offerta di spedizione gratuita non valida per AK, HI o caselle postali. &lt;/em&gt;L'idoneità per usufruire della spedizione gratuita viene determinata in base al totale della merce acquistata al netto degli sconti.&lt;/p&gt;&#13;
 &lt;h2&gt;Etichette di spedizione&lt;/h2&gt;&#13;
 &lt;table class="shippingpromotable" summary="Shipping Promotion Table"&gt;&#13;
     &lt;tbody&gt;&#13;
@@ -536,7 +536,7 @@
 &lt;h2&gt; &lt;span style="color: rgb(86, 79, 71); "&gt;配送 |&lt;/span&gt; &lt;span style="color: rgb(225, 185, 149);"&gt;ご注文金額が ¥30,000 を超えると 2 日配送が無料&lt;/span&gt;&lt;/h2&gt;&#13;
 &lt;hr /&gt;&#13;
 &lt;h2&gt;ご注文金額が ¥30,000 を超えると 2 日配送が無料&lt;/h2&gt;&#13;
-&lt;p style="text-align: left;"&gt;SiteGenesis では、¥30,000 を超えるご注文について、アラスカとハワイを除く米国 48 州への無料 2 日配送をご提供しています。無料配送は、2 日配送のみに適用されます。 &lt;em&gt;無料配送は、アラスカ州、ハワイ州、私書箱宛ての配送にはご利用いただけません。 &lt;/em&gt;無料配送は割引後の商品合計に基いて適用されます。&lt;/p&gt;&#13;
+&lt;p style="text-align: left;"&gt;MobileFirst では、¥30,000 を超えるご注文について、アラスカとハワイを除く米国 48 州への無料 2 日配送をご提供しています。無料配送は、2 日配送のみに適用されます。 &lt;em&gt;無料配送は、アラスカ州、ハワイ州、私書箱宛ての配送にはご利用いただけません。 &lt;/em&gt;無料配送は割引後の商品合計に基いて適用されます。&lt;/p&gt;&#13;
 &lt;h2&gt;配送範囲&lt;/h2&gt;&#13;
 &lt;table class="shippingpromotable" summary="Shipping Promotion Table"&gt;&#13;
     &lt;tbody&gt;&#13;
@@ -578,7 +578,7 @@
 &lt;h2&gt; &lt;span style="color: rgb(86, 79, 71); "&gt;送货 |&lt;/span&gt; &lt;span style="color: rgb(225, 185, 149);"&gt;订单满 300 美元即享免费 2 天送达&lt;/span&gt;&lt;/h2&gt;&#13;
 &lt;hr /&gt;&#13;
 &lt;h2&gt;订单满 300 美元即享免费 2 天送达&lt;/h2&gt;&#13;
-&lt;p style="text-align: left;"&gt;SiteGenesis 为任何满 300 美元的订单提供相邻州免费 2 天送达。免费送货优惠仅限 2 天送达。 &lt;em&gt;免费送货优惠不适用于阿拉斯加、夏威夷及邮政信箱。 &lt;/em&gt;免费送货在应用折扣后按商品总额决定。&lt;/p&gt;&#13;
+&lt;p style="text-align: left;"&gt;MobileFirst 为任何满 300 美元的订单提供相邻州免费 2 天送达。免费送货优惠仅限 2 天送达。 &lt;em&gt;免费送货优惠不适用于阿拉斯加、夏威夷及邮政信箱。 &lt;/em&gt;免费送货在应用折扣后按商品总额决定。&lt;/p&gt;&#13;
 &lt;h2&gt;送货品牌&lt;/h2&gt;&#13;
 &lt;table class="shippingpromotable" summary="Shipping Promotion Table"&gt;&#13;
     &lt;tbody&gt;&#13;
@@ -871,11 +871,11 @@ Per ulteriori informazioni visita le pagine &lt;a title="Contenuto Chi siamo" hr
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Account</page-title>
-            <page-title xml:lang="fr-FR">Mon Compte SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio account SiteGenesis</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis アカウント</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 账户</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Account</page-title>
+            <page-title xml:lang="fr-FR">Mon Compte MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio account MobileFirst</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst アカウント</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 账户</page-title>
             <page-description xml:lang="x-default">Demandware Reference Application Account Landing Page</page-description>
             <page-description xml:lang="fr-FR">Page principale du compte de l'application de référence Demandware</page-description>
             <page-description xml:lang="it-IT">Pagina di destinazione account applicazione di riferimento Demandware</page-description>
@@ -5239,11 +5239,11 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Cart</page-title>
-            <page-title xml:lang="fr-FR">Mon panier SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio carrello SiteGenesis</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis 買い物カゴ</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 购物车</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Cart</page-title>
+            <page-title xml:lang="fr-FR">Mon panier MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio carrello MobileFirst</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst 買い物カゴ</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 购物车</page-title>
         </page-attributes>
     </content>
 
@@ -10812,11 +10812,11 @@ Demandware へようこそ。成功は人から始まる、Demandware はそれ�
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Addresses</page-title>
-            <page-title xml:lang="fr-FR">Adresses de Mon SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio SiteGenesis - Indirizzi</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis 住所</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 地址</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Addresses</page-title>
+            <page-title xml:lang="fr-FR">Adresses de Mon MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio MobileFirst - Indirizzi</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst 住所</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 地址</page-title>
         </page-attributes>
     </content>
 
@@ -10829,11 +10829,11 @@ Demandware へようこそ。成功は人から始まる、Demandware はそれ�
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Gift Registry</page-title>
-            <page-title xml:lang="fr-FR">Liste de cadeaux de Mon SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio SiteGenesis - Lista regali</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis ギフトレジストリ</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 礼品登记</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Gift Registry</page-title>
+            <page-title xml:lang="fr-FR">Liste de cadeaux de Mon MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio MobileFirst - Lista regali</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst ギフトレジストリ</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 礼品登记</page-title>
         </page-attributes>
     </content>
 
@@ -10846,11 +10846,11 @@ Demandware へようこそ。成功は人から始まる、Demandware はそれ�
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Account Home</page-title>
-            <page-title xml:lang="fr-FR">Accueil de Mon compte SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio account SiteGenesis - Pagina principale</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis アカウントホーム</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 账户首页</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Account Home</page-title>
+            <page-title xml:lang="fr-FR">Accueil de Mon compte MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio account MobileFirst - Pagina principale</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst アカウントホーム</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 账户首页</page-title>
         </page-attributes>
     </content>
 
@@ -10863,11 +10863,11 @@ Demandware へようこそ。成功は人から始まる、Demandware はそれ�
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Account Login</page-title>
-            <page-title xml:lang="fr-FR">Connexion à Mon compte SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio account SiteGenesis - Accesso</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis アカウントログイン</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 账户登录名</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Account Login</page-title>
+            <page-title xml:lang="fr-FR">Connexion à Mon compte MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio account MobileFirst - Accesso</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst アカウントログイン</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 账户登录名</page-title>
         </page-attributes>
     </content>
 
@@ -10880,11 +10880,11 @@ Demandware へようこそ。成功は人から始まる、Demandware はそれ�
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Order History</page-title>
-            <page-title xml:lang="fr-FR">Historique de commandes de Mon SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio SiteGenesis - Cronologia ordini</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis 注文履歴</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 订单历史记录</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Order History</page-title>
+            <page-title xml:lang="fr-FR">Historique de commandes de Mon MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio MobileFirst - Cronologia ordini</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst 注文履歴</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 订单历史记录</page-title>
         </page-attributes>
     </content>
 
@@ -10897,11 +10897,11 @@ Demandware へようこそ。成功は人から始まる、Demandware はそれ�
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Payment Settings</page-title>
-            <page-title xml:lang="fr-FR">Modes de paiement de Mon SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio SiteGenesis - Impostazioni di pagamento</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis 支払設定</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 付款设置</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Payment Settings</page-title>
+            <page-title xml:lang="fr-FR">Modes de paiement de Mon MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio MobileFirst - Impostazioni di pagamento</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst 支払設定</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 付款设置</page-title>
         </page-attributes>
     </content>
 
@@ -10914,11 +10914,11 @@ Demandware へようこそ。成功は人から始まる、Demandware はそれ�
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Edit Account</page-title>
-            <page-title xml:lang="fr-FR">Modifier Mon compte SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio SiteGenesis - Modifica account</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis アカウントの編集</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 编辑账户</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Edit Account</page-title>
+            <page-title xml:lang="fr-FR">Modifier Mon compte MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio MobileFirst - Modifica account</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst アカウントの編集</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 编辑账户</page-title>
         </page-attributes>
     </content>
 
@@ -10931,11 +10931,11 @@ Demandware へようこそ。成功は人から始まる、Demandware はそれ�
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">My SiteGenesis Wishlist</page-title>
-            <page-title xml:lang="fr-FR">Liste de souhaits de Mon SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Il mio SiteGenesis - Lista desideri</page-title>
-            <page-title xml:lang="ja-JP">マイ SiteGenesis ほしい物リスト</page-title>
-            <page-title xml:lang="zh-CN">我的 SiteGenesis 愿望清单</page-title>
+            <page-title xml:lang="x-default">My MobileFirst Wishlist</page-title>
+            <page-title xml:lang="fr-FR">Liste de souhaits de Mon MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Il mio MobileFirst - Lista desideri</page-title>
+            <page-title xml:lang="ja-JP">マイ MobileFirst ほしい物リスト</page-title>
+            <page-title xml:lang="zh-CN">我的 MobileFirst 愿望清单</page-title>
         </page-attributes>
     </content>
 
@@ -12563,11 +12563,11 @@ Consideriamo molto seriamente i diritti relativi alla privacy degli utenti di qu
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
         <page-attributes>
-            <page-title xml:lang="x-default">Site Genesis Store Locator</page-title>
-            <page-title xml:lang="fr-FR">Localisateur de magasins de SiteGenesis</page-title>
-            <page-title xml:lang="it-IT">Store Locator di SiteGenesis</page-title>
-            <page-title xml:lang="ja-JP">SiteGenesis 店舗検索</page-title>
-            <page-title xml:lang="zh-CN">SiteGenesis 实体店地址搜索</page-title>
+            <page-title xml:lang="x-default">MobileFirst Store Locator</page-title>
+            <page-title xml:lang="fr-FR">Localisateur de magasins de MobileFirst</page-title>
+            <page-title xml:lang="it-IT">Store Locator di MobileFirst</page-title>
+            <page-title xml:lang="ja-JP">MobileFirst 店舗検索</page-title>
+            <page-title xml:lang="zh-CN">MobileFirst 实体店地址搜索</page-title>
         </page-attributes>
     </content>
 

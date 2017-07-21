@@ -1,13 +1,11 @@
-# Mobile First SiteGenesis Data
+# Mobile First Data
 
-This is a repository for the data that goes with the mobile first version of SiteGenesis.
+This is a repository for the data that goes with the mobile first version of MobileFirst.
 
 # NPM scripts
 
 ## Zip data
 `npm run zipData` - Zips up the data before it can be imported in a BM.
-
-`npm run updateData` - removes old zipped data files and zips up the current demo data directory.
 
 # Product Types : 
 1. Simple Product with no variant

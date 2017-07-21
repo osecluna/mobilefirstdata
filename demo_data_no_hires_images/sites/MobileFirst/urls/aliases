@@ -20,8 +20,8 @@
 	 *  
 	 */
 	"settings" : {
-		// "http-host" : "www.sitegenesis.com",
-		// "https-host" : "secure.sitegenesis.com"
+		// "http-host" : "www.mobilefirst.com",
+		// "https-host" : "secure.mobilefirst.com"
 	},
 	
 
@@ -37,21 +37,21 @@
 	 */
 	  
 	/*
-	 * Host redirect from sitegenesis.com to www.sitegesis.com.
-	 * All URLs coming to sitegenesis.com (http://sitegenesis.com/*) will be permanently redirected (301) to www.sitegenesis.com
+	 * Host redirect from mobilefirst.com to www.sitegesis.com.
+	 * All URLs coming to mobilefirst.com (http://mobilefirst.com/*) will be permanently redirected (301) to www.mobilefirst.com
 	 *  
-	 *	"sitegenesis.com": [
+	 *	"mobilefirst.com": [
 	 *      {
-	 *        "host": "www.sitegenesis.com"
+	 *        "host": "www.mobilefirst.com"
 	 *		}
 	 *  ],
 	 */
     
 	/*
 	 * Host redirect to specific pipeline.
-	 * Hostname-only URL (e.g. http://electronics.sitegenesis.com/) will result in a call of Search-Show pipeline.    
+	 * Hostname-only URL (e.g. http://electronics.mobilefirst.com/) will result in a call of Search-Show pipeline.    
 	 *
-	 *	"electronics.sitegenesis.com": [
+	 *	"electronics.mobilefirst.com": [
 	 *      {
 	 *        "pipeline": "Search-Show",
 	 *        "params" : {"cgid":"electronics"}
@@ -63,17 +63,17 @@
 	/*
 	 * Host redirect based on user agent header.
 	 * With each rule it is possible to associate precondition based on content of "user-agent" http header.
-	 * In the example below an HTTP requests with "User-Agent" header containing "iphone" or "ipod" will be redirected (301) to apple.sitegenesis.com
-	 * and those with "blackberry" to bb.sitegenesis.com.      
+	 * In the example below an HTTP requests with "User-Agent" header containing "iphone" or "ipod" will be redirected (301) to apple.mobilefirst.com
+	 * and those with "blackberry" to bb.mobilefirst.com.      
 	 *
-	 *	"www.sitegenesis.com": [
+	 *	"www.mobilefirst.com": [
 	 *     	{
 	 *        "if-agent-contains": ["iphone","ipod"],
-	 *        "host": "apple.sitegenesis.com"
+	 *        "host": "apple.mobilefirst.com"
 	 *	   	},
 	 *     	{
 	 *        "if-agent-contains": ["blackberry"],
-	 *        "host": "bb.sitegenesis.com"
+	 *        "host": "bb.mobilefirst.com"
 	 *		}
 	 *  ]
 	 */
