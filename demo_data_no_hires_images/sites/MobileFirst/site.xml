@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<site xmlns="http://www.demandware.com/xml/impex/site/2007-04-30" site-id="SiteGenesis">
-    <name>SiteGenesis</name>
+<site xmlns="http://www.demandware.com/xml/impex/site/2007-04-30" site-id="MobileFirst">
+    <name>MobileFirst</name>
     <currency>USD</currency>
     <taxation>net</taxation>
     <custom-cartridges>app_storefront_base</custom-cartridges>
