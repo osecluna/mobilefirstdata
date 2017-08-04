@@ -757,7 +757,10 @@
                 </included-products>
             </qualifying-products>
             <shipping-methods>
-                <method-id>001</method-id>
+                <method-id>JPY001</method-id>
+                <method-id>EUR001</method-id>
+                <method-id>GBP001</method-id>
+                <method-id>CNY001</method-id>
             </shipping-methods>
             <discounts condition-type="shipment-total">
                 <discount>
