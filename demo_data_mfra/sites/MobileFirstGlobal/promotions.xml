@@ -738,10 +738,12 @@
         <name xml:lang="it-IT">Test coupon a livello di spedizione</name>
         <name xml:lang="ja-JP">配送レベルクーポンのテスト</name>
         <name xml:lang="zh-CN">送货等级优惠券测试</name>
+        <callout-msg xml:lang="x-default">Spend 500 and receive 50% off shipping</callout-msg>
         <callout-msg xml:lang="fr-FR">Bénéficiez de 50 % de rabais sur les frais de port pour toute commande à partir de 500 euros</callout-msg>
         <callout-msg xml:lang="it-IT">Spendi 500 e ottieni uno sconto del 50% sulla spedizione</callout-msg>
         <callout-msg xml:lang="ja-JP">50,000 円のお買い物で配送が 50% 割引</callout-msg>
         <callout-msg xml:lang="zh-CN">消费 500 美元，即可获得 5 折送货优惠</callout-msg>
+        <details xml:lang="x-default">Certain product my be excluded</details>
         <details xml:lang="fr-FR">Certains produits peuvent être exclus</details>
         <details xml:lang="it-IT">Alcuni prodotti potrebbero essere esclusi</details>
         <details xml:lang="ja-JP">一部除外商品があります</details>
@@ -757,7 +759,10 @@
                 </included-products>
             </qualifying-products>
             <shipping-methods>
-                <method-id>001</method-id>
+                <method-id>JPY001</method-id>
+                <method-id>EUR001</method-id>
+                <method-id>GBP001</method-id>
+                <method-id>CNY001</method-id>
             </shipping-methods>
             <discounts condition-type="shipment-total">
                 <discount>
@@ -1345,10 +1350,12 @@
         <name xml:lang="it-IT">Test coupon a livello di prodotto</name>
         <name xml:lang="ja-JP">商品レベルクーポンのテスト</name>
         <name xml:lang="zh-CN">产品等级优惠券测试</name>
+        <callout-msg xml:lang="x-default">Test 50% Off Product with coupon</callout-msg>
         <callout-msg xml:lang="fr-FR">Tester 50 % de remise sur le produit avec un bon de réduction</callout-msg>
         <callout-msg xml:lang="it-IT">Test 50% di sconto sull'acquisto di un prodotto con coupon</callout-msg>
         <callout-msg xml:lang="ja-JP">クーポンのご使用で商品が 50% 割引</callout-msg>
         <callout-msg xml:lang="zh-CN">测试使用优惠券享受 5 折产品优惠</callout-msg>
+        <details xml:lang="x-default">Get 50% product when you buy 3 or more with coupon</details>
         <details xml:lang="fr-FR">Bénéficiez de 50 % de remise sur un produit pour l'achat d'au moins 3 produits avec un bon de réduction</details>
         <details xml:lang="it-IT">Sconto del 50% se acquisti almeno 3 prodotti con coupon</details>
         <details xml:lang="ja-JP">クーポンを使用して 3 点以上購入すると商品が 50% 割引</details>
@@ -1607,10 +1614,12 @@
         <name xml:lang="it-IT">Test coupon a livello di ordine</name>
         <name xml:lang="ja-JP">注文レベルクーポンのテスト</name>
         <name xml:lang="zh-CN">订单等级优惠券测试</name>
+        <callout-msg xml:lang="x-default">Test 50% Off Order</callout-msg>
         <callout-msg xml:lang="fr-FR">Tester 50 % de remise sur la commande</callout-msg>
         <callout-msg xml:lang="it-IT">Test 50% di sconto sull'ordine</callout-msg>
         <callout-msg xml:lang="ja-JP">注文から 50% 割引のテスト</callout-msg>
         <callout-msg xml:lang="zh-CN">测试 5 折优惠订单</callout-msg>
+        <details xml:lang="x-default">Certain product my be excluded</details>
         <details xml:lang="fr-FR">Certains produits peuvent être exclus</details>
         <details xml:lang="it-IT">Alcuni prodotti potrebbero essere esclusi</details>
         <details xml:lang="ja-JP">一部除外商品があります</details>
