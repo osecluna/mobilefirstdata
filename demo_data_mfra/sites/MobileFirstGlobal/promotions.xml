@@ -743,7 +743,7 @@
         <callout-msg xml:lang="it-IT">Spendi 500 e ottieni uno sconto del 50% sulla spedizione</callout-msg>
         <callout-msg xml:lang="ja-JP">50,000 円のお買い物で配送が 50% 割引</callout-msg>
         <callout-msg xml:lang="zh-CN">消费 500 美元，即可获得 5 折送货优惠</callout-msg>
-        <details xml:lang="x-default">Certain product my be excluded</details>
+        <details xml:lang="x-default">Certain product may be excluded</details>
         <details xml:lang="fr-FR">Certains produits peuvent être exclus</details>
         <details xml:lang="it-IT">Alcuni prodotti potrebbero essere esclusi</details>
         <details xml:lang="ja-JP">一部除外商品があります</details>
@@ -1619,7 +1619,7 @@
         <callout-msg xml:lang="it-IT">Test 50% di sconto sull'ordine</callout-msg>
         <callout-msg xml:lang="ja-JP">注文から 50% 割引のテスト</callout-msg>
         <callout-msg xml:lang="zh-CN">测试 5 折优惠订单</callout-msg>
-        <details xml:lang="x-default">Certain product my be excluded</details>
+        <details xml:lang="x-default">Certain product may be excluded</details>
         <details xml:lang="fr-FR">Certains produits peuvent être exclus</details>
         <details xml:lang="it-IT">Alcuni prodotti potrebbero essere esclusi</details>
         <details xml:lang="ja-JP">一部除外商品があります</details>
