@@ -1081,6 +1081,40 @@
         </shipping-promotion-rule>
     </promotion>
 
+    <promotion promotion-id="ChoiceOfBonusProdect-ProductLevel">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">ChoiceOfBonusProdect-ProductLevel</name>
+        <callout-msg xml:lang="x-default">Buy one man's suite get 2 free ties</callout-msg>
+        <details xml:lang="x-default">Buy one man's suite get 2 free ties</details>
+        <product-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>750518894553</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <discounts condition-type="product-quantity">
+                <discount>
+                    <threshold>1</threshold>
+                    <bonus-choice>
+                        <bonus-products>
+                            <bonus-product product-id="793775370033">
+                                <bonus-product-price>0</bonus-product-price>
+                            </bonus-product>
+                        </bonus-products>
+                        <max-bonus-items>2</max-bonus-items>
+                    </bonus-choice>
+                </discount>
+            </discounts>
+        </product-promotion-rule>
+    </promotion>
+
     <promotion promotion-id="ChoiceOfBonusProductOnOrderOfAmountAbove100">
         <enabled-flag>true</enabled-flag>
         <searchable-flag>true</searchable-flag>
@@ -2753,6 +2787,14 @@
         <coupons>
             <coupon coupon-id="product"/>
         </coupons>
+    </promotion-campaign-assignment>
+
+    <promotion-campaign-assignment promotion-id="ChoiceOfBonusProdect-ProductLevel" campaign-id="Automation">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
     </promotion-campaign-assignment>
 
 </promotions>
