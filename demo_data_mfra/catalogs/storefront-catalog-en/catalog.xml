@@ -404,7 +404,7 @@
         <online-flag>true</online-flag>
         <parent>root</parent>
         <position>7.0</position>
-        <template>rendering/category/catlanding</template>
+        <template>rendering/category/catLanding</template>
         <page-attributes>
             <page-title xml:lang="x-default">Women and Mens New Arrivals in Clothing, Jewelry, Accessories &amp; More</page-title>
             <page-title xml:lang="fr-FR">Nouveautés femme et homme : vêtements, bijoux, accessoires, et plus encore</page-title>
@@ -538,7 +538,7 @@
         <online-flag>true</online-flag>
         <parent>root</parent>
         <position>10.0</position>
-        <template>rendering/category/catlanding</template>
+        <template>rendering/category/catLanding</template>
         <page-attributes>
             <page-title xml:lang="x-default">Women's Footwear, Outerwear, Clothing &amp; Accessories</page-title>
             <page-title xml:lang="fr-FR">Chaussures, vêtements d'extérieur, vêtements et accessoires pour femmes.</page-title>
@@ -3003,7 +3003,7 @@
         <online-flag>true</online-flag>
         <parent>root</parent>
         <position>11.0</position>
-        <template>rendering/category/catlanding</template>
+        <template>rendering/category/catLanding</template>
         <page-attributes>
             <page-title xml:lang="x-default">Men's Footwear, Outerwear, Clothing &amp; Accessories</page-title>
             <page-title xml:lang="fr-FR">Chaussures, vêtements d'extérieur, vêtements et accessoires pour homme</page-title>
@@ -3878,7 +3878,7 @@
         <online-flag>true</online-flag>
         <parent>root</parent>
         <position>12.0</position>
-        <template>rendering/category/catlanding</template>
+        <template>rendering/category/catLanding</template>
         <page-attributes>
             <page-title xml:lang="x-default">Shop Electronics Including Televisions, Digital Cameras, iPods &amp; More</page-title>
             <page-description xml:lang="x-default">Shop Electronics including the latest in televisions, digital cameras, camcorders, mp3, ipod, mobil phones, GPS &amp; gaming at Commerce Cloud</page-description>
