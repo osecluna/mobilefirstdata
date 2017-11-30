@@ -7,14 +7,14 @@ This is a repository for the data that goes with the mobile first version of Mob
 ## Zip data
 `npm run zipData` - Zips up the data before it can be imported in a BM.
 
-# Product Types : 
+# Product Types :
 1. Simple Product with no variant
 2. Simple Product with single variant
 3. Simple Product with multiple variants
 4. product Set
 5. product Bundles
 6. variation group (not introduce yet as of May 2017)
-7. product options (electronics) 
+7. product options (electronics)
 
 
 # Price Types :
@@ -22,8 +22,8 @@ This is a repository for the data that goes with the mobile first version of Mob
 2. Sale Price
 3. Promotion Price
 3. Price range
-4. Tiered Price. (this is not working due to platform limitation) 
-5. option price. 
+4. Tiered Price. (this is not working due to platform limitation)
+5. option price.
 
 
 
@@ -57,9 +57,9 @@ Here is a list of the content assets used from the shared content library.
 # Slots
 | ID                      | Rendering Template | Usage             |description|
 |-------------------------|------|-------------------|-----------|
-|home-categories          |slots/content/contentassetbody.isml| Homepage |This slot renders images that link to other category pages it uses the content asset 'home-categories'.|
-|home-main                |slots/content/contentassetbody.isml| Homepage |Main image displayed on the homepage, used by the content asset 'home-main'.|
-|home-product-set-content |slots/content/contentassetbody.isml| Homepage |This slot desiplays an image that links to a product set|
+|home-categories          |slots/content/contentAssetBody.isml| Homepage |This slot renders images that link to other category pages it uses the content asset 'home-categories'.|
+|home-main                |slots/content/contentAssetBody.isml| Homepage |Main image displayed on the homepage, used by the content asset 'home-main'.|
+|home-product-set-content |slots/content/contentAssetBody.isml| Homepage |This slot desiplays an image that links to a product set|
 
 # Promotions
 | ID                                                     | Qualifying Products | Coupon     | Campaign                    |
