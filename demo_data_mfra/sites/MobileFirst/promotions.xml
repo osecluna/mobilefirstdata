@@ -1115,6 +1115,45 @@
         </product-promotion-rule>
     </promotion>
 
+    <promotion promotion-id="ChoiceOfBonusProdect-ProductLevel-ruleBased">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>true</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">ChoiceOfBonusProdect-ProductLevel-ruleBased</name>
+        <callout-msg xml:lang="x-default">Buy one Long Center Seam Skirt and get 2 tops</callout-msg>
+        <details xml:lang="x-default">Buy one Long Center Seam Skirt and get 2 tops</details>
+        <product-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>25493613</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <disable-global-excluded-products>true</disable-global-excluded-products>
+            <discounts condition-type="product-quantity">
+                <discount>
+                    <threshold>1</threshold>
+                    <bonus-choice>
+                        <bonus-product-rule>
+                            <included-products>
+                                <condition-group>
+                                    <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                                        <category-id>womens-clothing-tops</category-id>
+                                    </category-condition>
+                                </condition-group>
+                            </included-products>
+                        </bonus-product-rule>
+                        <max-bonus-items>2</max-bonus-items>
+                    </bonus-choice>
+                </discount>
+            </discounts>
+        </product-promotion-rule>
+    </promotion>
+
     <promotion promotion-id="ChoiceOfBonusProductOnOrderOfAmountAbove100">
         <enabled-flag>true</enabled-flag>
         <searchable-flag>true</searchable-flag>
