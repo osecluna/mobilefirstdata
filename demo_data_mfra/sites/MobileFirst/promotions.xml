@@ -2836,5 +2836,13 @@
         </qualifiers>
     </promotion-campaign-assignment>
 
+    <promotion-campaign-assignment promotion-id="ChoiceOfBonusProdect-ProductLevel-ruleBased" campaign-id="Automation">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+    </promotion-campaign-assignment>
+
 </promotions>
 
