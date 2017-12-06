@@ -1914,40 +1914,112 @@
         </product-promotion-rule>
     </promotion>
 
-    <promotion promotion-id="ChoiceOfBonusProductOnOrderOfAmountAbove100">
-        <enabled-flag>false</enabled-flag>
+    <promotion promotion-id="ChoiceOfBonusProdect-ProductLevel">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>false</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">ChoiceOfBonusProdect-ProductLevel</name>
+        <callout-msg xml:lang="x-default">Buy one man's suite get 2 free ties</callout-msg>
+        <details xml:lang="x-default">Buy one man's suite get 2 free ties</details>
+        <product-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>750518894553</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <discounts condition-type="product-quantity">
+                <discount>
+                    <threshold>1</threshold>
+                    <bonus-choice>
+                        <bonus-products>
+                            <bonus-product product-id="793775370033">
+                                <bonus-product-price>0</bonus-product-price>
+                            </bonus-product>
+                        </bonus-products>
+                        <max-bonus-items>2</max-bonus-items>
+                    </bonus-choice>
+                </discount>
+            </discounts>
+        </product-promotion-rule>
+    </promotion>
+
+    <promotion promotion-id="ChoiceOfBonusProdect-ProductLevel-ruleBased">
+        <enabled-flag>true</enabled-flag>
         <archived-flag>false</archived-flag>
         <searchable-flag>true</searchable-flag>
         <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">ChoiceOfBonusProdect-ProductLevel-ruleBased</name>
+        <callout-msg xml:lang="x-default">Buy one Long Center Seam Skirt and get 2 tops</callout-msg>
+        <details xml:lang="x-default">Buy one Long Center Seam Skirt and get 2 tops</details>
+        <product-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>25493613</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <disable-global-excluded-products>true</disable-global-excluded-products>
+            <discounts condition-type="product-quantity">
+                <discount>
+                    <threshold>1</threshold>
+                    <bonus-choice>
+                        <bonus-product-rule>
+                            <included-products>
+                                <condition-group>
+                                    <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                                        <category-id>womens-clothing-tops</category-id>
+                                    </category-condition>
+                                </condition-group>
+                            </included-products>
+                        </bonus-product-rule>
+                        <max-bonus-items>2</max-bonus-items>
+                    </bonus-choice>
+                </discount>
+            </discounts>
+        </product-promotion-rule>
+    </promotion>
+
+    <promotion promotion-id="ChoiceOfBonusProductOnOrderOfAmountAbove100">
+        <enabled-flag>true</enabled-flag>
+        <searchable-flag>true</searchable-flag>
+        <exclusivity>no</exclusivity>
         <name xml:lang="x-default">Choice of Bonus Product on Order Amount Above 100</name>
-        <name xml:lang="fr-FR">Sélection de produits offerts pour toute commande supérieure à 100</name>
-        <name xml:lang="it-IT">Scelta di prodotto premio per ordini di importo superiore a € 100</name>
-        <name xml:lang="ja-JP">注文金額 10,000 円以上でボーナス商品を選択</name>
-        <name xml:lang="zh-CN">订单金额超过 100 可选择奖励产品</name>
+        <name xml:lang="fr-FR">ProduitBonusAuChoixCommandeSup100</name>
+        <name xml:lang="it-IT">Scelta di prodotti premio su ordini con importo superiore a € 100</name>
+        <name xml:lang="ja-JP">注文金額10,000円以上でボーナス商品を選択</name>
+        <name xml:lang="zh-CN">选择奖赏产品订单金额超过100元</name>
         <callout-msg xml:lang="x-default">Choice of Bonus Product on Order Amount Above 100</callout-msg>
-        <callout-msg xml:lang="fr-FR">Sélection de produits offerts pour toute commande supérieure à 100</callout-msg>
-        <callout-msg xml:lang="it-IT">Scelta di prodotto premio per ordini di importo superiore a € 100</callout-msg>
-        <callout-msg xml:lang="ja-JP">注文金額 10,000 円以上でボーナス商品を選択</callout-msg>
-        <callout-msg xml:lang="zh-CN">订单金额超过 100 可选择奖励产品</callout-msg>
+        <callout-msg xml:lang="fr-FR">ProduitBonusAuChoixCommandeSup100</callout-msg>
+        <callout-msg xml:lang="it-IT">Scelta di prodotti premio su ordini con importo superiore a € 100</callout-msg>
+        <callout-msg xml:lang="ja-JP">注文金額10,000円以上でボーナス商品を選択</callout-msg>
+        <callout-msg xml:lang="zh-CN">选择奖赏产品订单金额超过100元</callout-msg>
         <details xml:lang="x-default">Choice of Bonus Product on Order Amount Above 100</details>
-        <details xml:lang="fr-FR">Sélection de produits offerts pour toute commande supérieure à 100</details>
-        <details xml:lang="it-IT">Scelta di prodotto premio per ordini di importo superiore a € 100</details>
-        <details xml:lang="ja-JP">注文金額 10,000 円以上でボーナス商品を選択</details>
-        <details xml:lang="zh-CN">订单金额超过 100 可选择奖励产品</details>
+        <details xml:lang="fr-FR">ProduitBonusAuChoixCommandeSup100</details>
+        <details xml:lang="it-IT">Scelta di prodotti premio su ordini con importo superiore a € 100</details>
+        <details xml:lang="ja-JP">注文金額10,000円以上でボーナス商品を選択</details>
+        <details xml:lang="zh-CN">选择奖赏产品订单金额超过100元</details>
         <order-promotion-rule>
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                            <category-id>womens-jewelry</category-id>
-                        </category-condition>
+                        <product-id-condition operator="is equal">
+                            <product-id>013742002454</product-id>
+                        </product-id-condition>
                     </condition-group>
                 </included-products>
             </qualifying-products>
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                        <category-condition catalog-id="storefront-catalog-en">
                             <category-id>womens-jewelry-necklaces</category-id>
                         </category-condition>
                     </condition-group>
@@ -1965,8 +2037,14 @@
                             <bonus-product product-id="008884304047">
                                 <bonus-product-price>0</bonus-product-price>
                             </bonus-product>
+                            <bonus-product product-id="883360390116">
+                                <bonus-product-price>0</bonus-product-price>
+                            </bonus-product>
+                            <bonus-product product-id="pioneer-pdp-6010fd">
+                                <bonus-product-price>0</bonus-product-price>
+                            </bonus-product>
                         </bonus-products>
-                        <max-bonus-items>1</max-bonus-items>
+                        <max-bonus-items>2</max-bonus-items>
                     </bonus-choice>
                 </discount>
             </discounts>
@@ -2842,5 +2920,23 @@
         </qualifiers>
         <rank>10</rank>
     </promotion-campaign-assignment>
+
+    <promotion-campaign-assignment promotion-id="ChoiceOfBonusProdect-ProductLevel" campaign-id="Automation">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+    </promotion-campaign-assignment>
+
+    <promotion-campaign-assignment promotion-id="ChoiceOfBonusProdect-ProductLevel-ruleBased" campaign-id="Automation">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+    </promotion-campaign-assignment>
+
+
 
 </promotions>
