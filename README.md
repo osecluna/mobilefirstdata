@@ -30,8 +30,8 @@ This is a repository for the data that goes with the mobile first version of Mob
 # Install/Import
 To use this data with in a sandbox
 
-1. The directory 'demo\_data\_no\_hires\_images' needs to compressed into a zip file of the same name.
-		e.g 'demo\_data\_no\_hires\_images.zip'.
+1. The directory 'demo\_data\_mfra' needs to compressed into a zip file of the same name.
+		e.g 'demo\_data\_mfra.zip'.
 
 
 2. The zip file needs to be uploaded to the instance's BM.  In the BM go to Administration >  Site Development >  Site Import & Export.  Then upload the zip file from step#1.
