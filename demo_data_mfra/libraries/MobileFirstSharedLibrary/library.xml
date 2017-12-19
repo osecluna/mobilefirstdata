@@ -6663,19 +6663,19 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <custom-attributes>
             <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div class="copyright"&gt;&amp;copy; 2004-2016 Commerce Cloud, a Salesforce company. All Rights Reserved.&lt;/div&gt;&#13;
                 &lt;div class="postscript"&gt;This is a demo store only. Orders made will NOT be processed.&lt;/div&gt;&#13;
-		&lt;!-- SG.103.0.0 --&gt;</custom-attribute>
+		&lt;!-- SG.2.0.0 --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div class="copyright"&gt;© 2004-2016 Commerce Cloud, une société Salesforce. Tous droits réservés.&lt;/div&gt;&#13;
                 &lt;div class="postscript"&gt;Ceci est une boutique de démonstration uniquement. Les commandes NE SERONT PAS traitées.&lt;/div&gt;&#13;
-		&lt;!-- SG.103.0.0 --&gt;</custom-attribute>
+		&lt;!-- SG.2.0.0 --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div class="copyright"&gt;© 2004-2016 Commerce Cloud, un'azienda Salesforce. Tutti i diritti riservati.&lt;/div&gt;&#13;
                 &lt;div class="postscript"&gt;Questo è un negozio fittizio a scopo dimostrativo. Gli ordini effettuati NON verranno evasi.&lt;/div&gt;&#13;
-		&lt;!-- SG.103.0.0 --&gt;</custom-attribute>
+		&lt;!-- SG.2.0.0 --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div class="copyright"&gt;© 2004-2016 Commerce Cloud, a Salesforce company.All Rights Reserved.&lt;/div&gt;&#13;
                 &lt;div class="postscript"&gt;これはデモのみを目的とするストアです。注文を確定しても処理されません。&lt;/div&gt;&#13;
-		&lt;!-- SG.103.0.0 --&gt;</custom-attribute>
+		&lt;!-- SG.2.0.0 --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div class="copyright"&gt;© 2004-2016 Commerce Cloud, a Salesforce company。保留所有权利。&lt;/div&gt;&#13;
                 &lt;div class="postscript"&gt;此仅为示范商店。所下订单不会被处理。&lt;/div&gt;&#13;
-		&lt;!-- SG.103.0.0 --&gt;</custom-attribute>
+		&lt;!-- SG.2.0.0 --&gt;</custom-attribute>
         </custom-attributes>
     </content>
 
