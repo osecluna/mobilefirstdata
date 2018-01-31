@@ -1727,7 +1727,7 @@
         <exclusivity>no</exclusivity>
         <name xml:lang="x-default">Order Level Coupon Test</name>
         <callout-msg xml:lang="x-default">Test 50% Off Order</callout-msg>
-        <details xml:lang="x-default">Certain product my be excluded</details>
+        <details xml:lang="x-default">Certain product may be excluded</details>
         <order-promotion-rule>
             <qualifying-products>
                 <included-products>
