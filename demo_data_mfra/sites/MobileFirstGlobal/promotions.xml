@@ -1922,8 +1922,20 @@
         <searchable-flag>false</searchable-flag>
         <exclusivity>no</exclusivity>
         <name xml:lang="x-default">ChoiceOfBonusProdect-ProductLevel</name>
+        <name xml:lang="fr-FR">ChoixDeProduitOffert-NiveauProduit</name>
+        <name xml:lang="it-IT">Scelta di prodotto premio-Livello prodotto</name>
+        <name xml:lang="ja-JP">ChoiceOfBonusProdect-ProductLevel</name>
+        <name xml:lang="zh-CN">ChoiceOfBonusProdect-ProductLevel</name>
         <callout-msg xml:lang="x-default">Buy one man's suite get 2 free ties</callout-msg>
+        <callout-msg xml:lang="fr-FR">Recevez deux cravates gratuites pour l'achat d'un costume homme</callout-msg>
+        <callout-msg xml:lang="it-IT">Acquista un completo da uomo e ricevi 2 cravatte in omaggio</callout-msg>
+        <callout-msg xml:lang="ja-JP">メンズスーツ 1 着のご購入でネクタイ 2 本が無料</callout-msg>
+        <callout-msg xml:lang="zh-CN">购一套男士西装赠送两条领带</callout-msg>
         <details xml:lang="x-default">Buy one man's suite get 2 free ties</details>
+        <details xml:lang="fr-FR">Recevez deux cravates gratuites pour l'achat d'un costume homme</details>
+        <details xml:lang="it-IT">Acquista un completo da uomo e ricevi 2 cravatte in omaggio</details>
+        <details xml:lang="ja-JP">メンズスーツ 1 着のご購入でネクタイ 2 本が無料</details>
+        <details xml:lang="zh-CN">购一套男士西装赠送两条领带</details>
         <product-promotion-rule>
             <qualifying-products>
                 <included-products>
@@ -1956,8 +1968,20 @@
         <searchable-flag>true</searchable-flag>
         <exclusivity>no</exclusivity>
         <name xml:lang="x-default">ChoiceOfBonusProdect-ProductLevel-ruleBased</name>
+        <name xml:lang="fr-FR">ChoixDeProduitOffert-NiveauProduit-baséRègles</name>
+        <name xml:lang="ja-JP">ChoiceOfBonusProdect-ProductLevel-ruleBased</name>
+        <name xml:lang="it-IT">Scelta di prodotto premio-Livello prodotto  basato su regola</name>
+        <name xml:lang="zh-CN">ChoiceOfBonusProdect-ProductLevel-ruleBased</name>
         <callout-msg xml:lang="x-default">Buy one Long Center Seam Skirt and get 2 tops</callout-msg>
+        <callout-msg xml:lang="fr-FR">Recevez deux hauts gratuits pour l'achat d'une jupe longue à couture centrale</callout-msg>
+        <callout-msg xml:lang="it-IT">Acquista una gonna lunga con cucitura centrale e ricevi 2 camicette</callout-msg>
+        <callout-msg xml:lang="ja-JP">フロントシームスカート 1 枚のご購入でトップス 2 枚が無料</callout-msg>
+        <callout-msg xml:lang="zh-CN">购一条中心接缝长裙赠送两件上衣</callout-msg>
         <details xml:lang="x-default">Buy one Long Center Seam Skirt and get 2 tops</details>
+        <details xml:lang="fr-FR">Recevez deux hauts gratuits pour l'achat d'une jupe longue à couture centrale</details>
+        <details xml:lang="it-IT">Acquista una gonna lunga con cucitura centrale e ricevi 2 camicette</details>
+        <details xml:lang="ja-JP">フロントシームスカート 1 枚のご購入でトップス 2 枚が無料</details>
+        <details xml:lang="zh-CN">购一条中心接缝长裙赠送两件上衣</details>
         <product-promotion-rule>
             <qualifying-products>
                 <included-products>
@@ -2038,6 +2062,70 @@
                             </bonus-product>
                             <bonus-product product-id="008884304047">
                                 <bonus-product-price>0</bonus-product-price>
+                            </bonus-product>
+                            <bonus-product product-id="883360390116">
+                                <bonus-product-price>0</bonus-product-price>
+                            </bonus-product>
+                            <bonus-product product-id="pioneer-pdp-6010fd">
+                                <bonus-product-price>0</bonus-product-price>
+                            </bonus-product>
+                        </bonus-products>
+                        <max-bonus-items>2</max-bonus-items>
+                    </bonus-choice>
+                </discount>
+            </discounts>
+        </order-promotion-rule>
+    </promotion>
+
+    <promotion promotion-id="ChoiceOfBonusProductOnOrderOfAmountAbove100-not-free">
+        <enabled-flag>false</enabled-flag>
+        <searchable-flag>true</searchable-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">Choice of Bonus Product on Order Amount Above 100</name>
+        <name xml:lang="fr-FR">Choix de produit offert pour toute commande supérieure à 100</name>
+        <name xml:lang="it-IT">Scelta di prodotto premio per ordini di importo superiore a € 100</name>
+        <name xml:lang="ja-JP">注文金額 10,000 円以上でボーナス商品を選択</name>
+        <name xml:lang="zh-CN">订单金额超过 100 可选择奖励产品</name>
+        <callout-msg xml:lang="x-default">Choice of Bonus Product on Order Amount Above 100</callout-msg>
+        <callout-msg xml:lang="fr-FR">Choix de produit offert pour toute commande supérieure à 100</callout-msg>
+        <callout-msg xml:lang="it-IT">Scelta di prodotto premio per ordini di importo superiore a € 100</callout-msg>
+        <callout-msg xml:lang="ja-JP">注文金額 10,000 円以上でボーナス商品を選択</callout-msg>
+        <callout-msg xml:lang="zh-CN">订单金额超过 100 可选择奖励产品</callout-msg>
+        <details xml:lang="x-default">Choice of Bonus Product on Order Amount Above 100</details>
+        <details xml:lang="fr-FR">Choix de produit offert pour toute commande supérieure à 100</details>
+        <details xml:lang="it-IT">Scelta di prodotto premio per ordini di importo superiore a € 100</details>
+        <details xml:lang="ja-JP">注文金額 10,000 円以上でボーナス商品を選択</details> 
+        <details xml:lang="zh-CN">订单金额超过 100 可选择奖励产品</details>
+        <order-promotion-rule>
+            <qualifying-products>
+                <included-products>
+                    <condition-group>
+                        <product-id-condition operator="is equal">
+                            <product-id>013742002454</product-id>
+                        </product-id-condition>
+                    </condition-group>
+                </included-products>
+            </qualifying-products>
+            <excluded-products>
+                <included-products>
+                    <condition-group>
+                        <category-condition catalog-id="storefront-catalog-en">
+                            <category-id>womens-jewelry-necklaces</category-id>
+                        </category-condition>
+                    </condition-group>
+                </included-products>
+            </excluded-products>
+            <discount-only-qualifying-products>false</discount-only-qualifying-products>
+            <discounts condition-type="order-total">
+                <discount>
+                    <threshold>100.0</threshold>
+                    <bonus-choice>
+                        <bonus-products>
+                            <bonus-product product-id="008885004540">
+                                <bonus-product-price>5</bonus-product-price>
+                            </bonus-product>
+                            <bonus-product product-id="008884304047">
+                                <bonus-product-price>10</bonus-product-price>
                             </bonus-product>
                             <bonus-product product-id="883360390116">
                                 <bonus-product-price>0</bonus-product-price>
