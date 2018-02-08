@@ -10490,6 +10490,10 @@
         <primary-flag>true</primary-flag>
     </category-assignment>
 
+    <category-assignment category-id="womens-outfits" product-id="in-store-set">
+        <primary-flag>true</primary-flag>
+    </category-assignment>
+
     <category-assignment category-id="womens-outfits" product-id="spring-look">
         <primary-flag>true</primary-flag>
     </category-assignment>
