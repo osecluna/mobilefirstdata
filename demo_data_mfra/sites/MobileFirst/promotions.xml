@@ -88,7 +88,7 @@
         <global-excluded-products>
             <included-products>
                 <condition-group>
-                    <category-condition catalog-id="storefront-catalog-en">
+                    <category-condition catalog-id="storefront-catalog-m-en">
                         <category-id>electronic-games</category-id>
                     </category-condition>
                 </condition-group>
@@ -109,8 +109,8 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>793775370033</product-id>
-                            <product-id>25686395</product-id>
+                            <product-id>793775370033M</product-id>
+                            <product-id>25686395M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -144,7 +144,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>electronics-televisions-flat-screen</category-id>
                         </category-condition>
                     </condition-group>
@@ -186,7 +186,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing-dress-shirts</category-id>
                         </category-condition>
                     </condition-group>
@@ -222,7 +222,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>electronics-televisions</category-id>
                         </category-condition>
                     </condition-group>
@@ -258,10 +258,10 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>nikon-d60-wlens</product-id>
-                            <product-id>sony-cybershot-t77</product-id>
-                            <product-id>nikon-d40-wlens</product-id>
-                            <product-id>canon-powershot-sd1100-is</product-id>
+                            <product-id>nikon-d60-wlensM</product-id>
+                            <product-id>sony-cybershot-t77M</product-id>
+                            <product-id>nikon-d40-wlensM</product-id>
+                            <product-id>canon-powershot-sd1100-isM</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -303,12 +303,12 @@
                             <included-products>
                                 <condition-group>
                                     <product-id-condition operator="is equal">
-                                        <product-id>vizio-vw46lf</product-id>
-                                        <product-id>vizio-vp504f</product-id>
-                                        <product-id>vizio-vp503</product-id>
-                                        <product-id>vizio-vp422</product-id>
-                                        <product-id>vizio-vo37l</product-id>
-                                        <product-id>vizio-vo32lf</product-id>
+                                        <product-id>vizio-vw46lfM</product-id>
+                                        <product-id>vizio-vp504fM</product-id>
+                                        <product-id>vizio-vp503M</product-id>
+                                        <product-id>vizio-vp422M</product-id>
+                                        <product-id>vizio-vo37lM</product-id>
+                                        <product-id>vizio-vo32lfM</product-id>
                                     </product-id-condition>
                                 </condition-group>
                             </included-products>
@@ -324,9 +324,9 @@
                             <included-products>
                                 <condition-group>
                                     <product-id-condition operator="is equal">
-                                        <product-id>vizio-gv47lf</product-id>
-                                        <product-id>vizio-sv420xvt</product-id>
-                                        <product-id>vizio-vo22lf</product-id>
+                                        <product-id>vizio-gv47lfM</product-id>
+                                        <product-id>vizio-sv420xvtM</product-id>
+                                        <product-id>vizio-vo22lfM</product-id>
                                     </product-id-condition>
                                 </condition-group>
                             </included-products>
@@ -367,9 +367,9 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>ubi-soft-quick-yoga-training-nintendods</product-id>
-                            <product-id>nintendo-big-brain-academy-nintendods</product-id>
-                            <product-id>nintendo-mario-kart-nintendods</product-id>
+                            <product-id>ubi-soft-quick-yoga-training-nintendodsM</product-id>
+                            <product-id>nintendo-big-brain-academy-nintendodsM</product-id>
+                            <product-id>nintendo-mario-kart-nintendodsM</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -406,7 +406,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing</category-id>
                         </category-condition>
                     </condition-group>
@@ -415,7 +415,7 @@
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing-pants</category-id>
                         </category-condition>
                     </condition-group>
@@ -444,7 +444,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>682875540326</product-id>
+                            <product-id>682875540326M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -520,7 +520,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-accessories</category-id>
                         </category-condition>
                     </condition-group>
@@ -562,7 +562,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-clothing-dresses</category-id>
                         </category-condition>
                     </condition-group>
@@ -636,7 +636,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>electronics-televisions</category-id>
                         </category-condition>
                     </condition-group>
@@ -672,7 +672,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-accessories-gloves</category-id>
                         </category-condition>
                     </condition-group>
@@ -709,7 +709,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-clothing-dresses</category-id>
                         </category-condition>
                     </condition-group>
@@ -744,7 +744,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-clothing-tops</category-id>
                         </category-condition>
                     </condition-group>
@@ -785,7 +785,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>nintendo-wii-console</product-id>
+                            <product-id>nintendo-wii-consoleM</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -794,12 +794,12 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>easports-madden-nfl-09-wii</product-id>
-                            <product-id>lucasarts-lego-indiana-jones-original-adventure-wii</product-id>
-                            <product-id>namco-we-ski-wii</product-id>
-                            <product-id>sega-mario-sonic-olympics-2008-wii</product-id>
-                            <product-id>sega-bass-fishing-wii</product-id>
-                            <product-id>midway-cruisn-wii</product-id>
+                            <product-id>easports-madden-nfl-09-wiiM</product-id>
+                            <product-id>lucasarts-lego-indiana-jones-original-adventure-wiiM</product-id>
+                            <product-id>namco-we-ski-wiiM</product-id>
+                            <product-id>sega-mario-sonic-olympics-2008-wiiM</product-id>
+                            <product-id>sega-bass-fishing-wiiM</product-id>
+                            <product-id>midway-cruisn-wiiM</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -836,7 +836,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>electronics-gps-units</category-id>
                         </category-condition>
                     </condition-group>
@@ -872,7 +872,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing</category-id>
                         </category-condition>
                     </condition-group>
@@ -881,7 +881,7 @@
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing-pants</category-id>
                         </category-condition>
                     </condition-group>
@@ -910,7 +910,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>799927767720</product-id>
+                            <product-id>799927767720M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -940,7 +940,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>799927767720</product-id>
+                            <product-id>799927767720M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -982,7 +982,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>electronics</category-id>
                         </category-condition>
                     </condition-group>
@@ -1094,7 +1094,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>750518894553</product-id>
+                            <product-id>750518894553M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -1104,7 +1104,7 @@
                     <threshold>1</threshold>
                     <bonus-choice>
                         <bonus-products>
-                            <bonus-product product-id="793775370033">
+                            <bonus-product product-id="793775370033M">
                                 <bonus-product-price>0</bonus-product-price>
                             </bonus-product>
                         </bonus-products>
@@ -1128,7 +1128,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>25493613</product-id>
+                            <product-id>25493613M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -1141,7 +1141,7 @@
                         <bonus-product-rule>
                             <included-products>
                                 <condition-group>
-                                    <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                                    <category-condition catalog-id="storefront-catalog-m-en" operator="is equal">
                                         <category-id>womens-clothing-tops</category-id>
                                     </category-condition>
                                 </condition-group>
@@ -1178,7 +1178,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>013742002454</product-id>
+                            <product-id>013742002454M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -1186,7 +1186,7 @@
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-jewelry-necklaces</category-id>
                         </category-condition>
                     </condition-group>
@@ -1198,16 +1198,16 @@
                     <threshold>100.0</threshold>
                     <bonus-choice>
                         <bonus-products>
-                            <bonus-product product-id="008885004540">
+                            <bonus-product product-id="008885004540M">
                                 <bonus-product-price>0</bonus-product-price>
                             </bonus-product>
-                            <bonus-product product-id="008884304047">
+                            <bonus-product product-id="008884304047M">
                                 <bonus-product-price>0</bonus-product-price>
                             </bonus-product>
-                            <bonus-product product-id="883360390116">
+                            <bonus-product product-id="883360390116M">
                                 <bonus-product-price>0</bonus-product-price>
                             </bonus-product>
-                            <bonus-product product-id="pioneer-pdp-6010fd">
+                            <bonus-product product-id="pioneer-pdp-6010fdM">
                                 <bonus-product-price>0</bonus-product-price>
                             </bonus-product>
                         </bonus-products>
@@ -1242,7 +1242,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>013742002454</product-id>
+                            <product-id>013742002454M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -1250,7 +1250,7 @@
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-jewelry-necklaces</category-id>
                         </category-condition>
                     </condition-group>
@@ -1262,16 +1262,16 @@
                     <threshold>100.0</threshold>
                     <bonus-choice>
                         <bonus-products>
-                            <bonus-product product-id="008885004540">
+                            <bonus-product product-id="008885004540M">
                                 <bonus-product-price>5</bonus-product-price>
                             </bonus-product>
-                            <bonus-product product-id="008884304047">
+                            <bonus-product product-id="008884304047M">
                                 <bonus-product-price>10</bonus-product-price>
                             </bonus-product>
-                            <bonus-product product-id="883360390116">
+                            <bonus-product product-id="883360390116M">
                                 <bonus-product-price>0</bonus-product-price>
                             </bonus-product>
-                            <bonus-product product-id="pioneer-pdp-6010fd">
+                            <bonus-product product-id="pioneer-pdp-6010fdM">
                                 <bonus-product-price>0</bonus-product-price>
                             </bonus-product>
                         </bonus-products>
@@ -1331,7 +1331,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing</category-id>
                         </category-condition>
                     </condition-group>
@@ -1340,7 +1340,7 @@
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing-pants</category-id>
                         </category-condition>
                     </condition-group>
@@ -1379,7 +1379,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-clothing</category-id>
                         </category-condition>
                     </condition-group>
@@ -1388,7 +1388,7 @@
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-clothing-jackets</category-id>
                             <category-id>womens-clothing-feeling-red</category-id>
                             <category-id>womens-clothing-bottoms</category-id>
@@ -1402,7 +1402,7 @@
                     <threshold>250.0</threshold>
                     <bonus>
                         <bonus-products>
-                            <product-id>008884304108</product-id>
+                            <product-id>008884304108M</product-id>
                         </bonus-products>
                     </bonus>
                 </discount>
@@ -1428,7 +1428,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-accessories-shoes</category-id>
                         </category-condition>
                     </condition-group>
@@ -1471,7 +1471,7 @@
                             <included-products>
                                 <condition-group>
                                     <product-id-condition operator="is equal">
-                                        <product-id>TG720</product-id>
+                                        <product-id>TG720M</product-id>
                                     </product-id-condition>
                                 </condition-group>
                             </included-products>
@@ -1483,8 +1483,8 @@
             <simple-discount>
                 <bonus>
                     <bonus-products>
-                        <product-id>061492216690</product-id>
-                        <product-id>061492216683</product-id>
+                        <product-id>061492216690M</product-id>
+                        <product-id>061492216683M</product-id>
                     </bonus-products>
                 </bonus>
             </simple-discount>
@@ -1514,7 +1514,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>electronics</category-id>
                             <category-id>mens</category-id>
                         </category-condition>
@@ -1556,7 +1556,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing-suits</category-id>
                         </category-condition>
                     </condition-group>
@@ -1591,7 +1591,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing-suits</category-id>
                         </category-condition>
                     </condition-group>
@@ -1631,10 +1631,10 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>nikon-d40-wlens</product-id>
-                            <product-id>canon-powershot-sd1100-is</product-id>
-                            <product-id>sony-cybershot-t77</product-id>
-                            <product-id>nikon-d60-wlens</product-id>
+                            <product-id>nikon-d40-wlensM</product-id>
+                            <product-id>canon-powershot-sd1100-isM</product-id>
+                            <product-id>sony-cybershot-t77M</product-id>
+                            <product-id>nikon-d60-wlensM</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -1672,7 +1672,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing-suits</category-id>
                         </category-condition>
                     </condition-group>
@@ -1733,7 +1733,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>883360541815</product-id>
+                            <product-id>883360541815M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -1771,7 +1771,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens-accessories-shoes</category-id>
                         </category-condition>
                     </condition-group>
@@ -1804,7 +1804,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>740357377119</product-id>
+                            <product-id>740357377119M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -1845,7 +1845,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>sony-ps3-bundle</product-id>
+                            <product-id>sony-ps3-bundleM</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -1880,7 +1880,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing</category-id>
                         </category-condition>
                     </condition-group>
@@ -1889,7 +1889,7 @@
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing-pants</category-id>
                         </category-condition>
                     </condition-group>
@@ -1965,7 +1965,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>newarrivals</category-id>
                             <category-id>mens</category-id>
                             <category-id>womens</category-id>
@@ -2009,7 +2009,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>womens</category-id>
                         </category-condition>
                     </condition-group>
@@ -2188,7 +2188,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>electronics-televisions</category-id>
                         </category-condition>
                     </condition-group>
@@ -2223,7 +2223,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>apple-ipod-nano</product-id>
+                            <product-id>apple-ipod-nanoM</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -2258,7 +2258,7 @@
             <discounted-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>electronics-televisions-flat-screen</category-id>
                         </category-condition>
                         <brand-condition operator="is equal">
@@ -2300,7 +2300,7 @@
             <qualifying-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing</category-id>
                         </category-condition>
                     </condition-group>
@@ -2309,7 +2309,7 @@
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-en">
                             <category-id>mens-clothing-pants</category-id>
                         </category-condition>
                     </condition-group>
@@ -2338,7 +2338,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>82936941</product-id>
+                            <product-id>82936941M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -2369,7 +2369,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>883360543307</product-id>
+                            <product-id>883360543307M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -2397,7 +2397,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>740357447164</product-id>
+                            <product-id>740357447164M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -2428,7 +2428,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>682875719029</product-id>
+                            <product-id>682875719029M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>

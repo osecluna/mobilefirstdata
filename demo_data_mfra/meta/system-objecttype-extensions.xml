@@ -4431,7 +4431,7 @@
                 <mandatory-flag>false</mandatory-flag>
                 <externally-managed-flag>false</externally-managed-flag>
                 <min-length>0</min-length>
-                <default-value>usd-list-prices</default-value>
+                <default-value>usd-m-list-prices</default-value>
             </attribute-definition>
             <attribute-definition attribute-id="mapAPI">
                 <display-name xml:lang="x-default">google map api key</display-name>

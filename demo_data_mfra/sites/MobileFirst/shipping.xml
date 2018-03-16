@@ -27,7 +27,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en">
+                            <category-condition catalog-id="storefront-catalog-m-en">
                                 <category-id>electronics-televisions</category-id>
                             </category-condition>
                         </condition-group>
@@ -41,7 +41,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en">
+                            <category-condition catalog-id="storefront-catalog-m-en">
                                 <category-id>womens-jewelry</category-id>
                             </category-condition>
                         </condition-group>
@@ -117,7 +117,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en">
+                            <category-condition catalog-id="storefront-catalog-m-en">
                                 <category-id>electronics-televisions</category-id>
                             </category-condition>
                         </condition-group>
@@ -191,7 +191,7 @@
         <excluded-products>
             <included-products>
                 <condition-group>
-                    <category-condition catalog-id="storefront-catalog-en">
+                    <category-condition catalog-id="storefront-catalog-m-en">
                         <category-id>electronics-televisions</category-id>
                     </category-condition>
                 </condition-group>
@@ -259,7 +259,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en">
+                            <category-condition catalog-id="storefront-catalog-m-en">
                                 <category-id>electronic-games</category-id>
                             </category-condition>
                         </condition-group>
@@ -273,7 +273,7 @@
         <excluded-products>
             <included-products>
                 <condition-group>
-                    <category-condition catalog-id="storefront-catalog-en">
+                    <category-condition catalog-id="storefront-catalog-m-en">
                         <category-id>newarrivals</category-id>
                         <category-id>womens</category-id>
                         <category-id>mens</category-id>
@@ -375,7 +375,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en">
+                            <category-condition catalog-id="storefront-catalog-m-en">
                                 <category-id>electronics-televisions</category-id>
                             </category-condition>
                         </condition-group>
@@ -448,7 +448,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en">
+                            <category-condition catalog-id="storefront-catalog-m-en">
                                 <category-id>electronics-televisions</category-id>
                             </category-condition>
                         </condition-group>
@@ -506,7 +506,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="electronics-catalog">
+                            <category-condition catalog-id="electronics-m-catalog">
                                 <category-id>electronics-televisions</category-id>
                             </category-condition>
                         </condition-group>
@@ -520,7 +520,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en">
+                            <category-condition catalog-id="storefront-catalog-m-en">
                                 <category-id>womens-jewelry</category-id>
                             </category-condition>
                         </condition-group>
@@ -596,7 +596,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en">
+                            <category-condition catalog-id="storefront-catalog-m-en">
                                 <category-id>electronics-televisions</category-id>
                             </category-condition>
                         </condition-group>
@@ -729,7 +729,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en">
+                            <category-condition catalog-id="storefront-catalog-m-en">
                                 <category-id>electronics-gaming</category-id>
                             </category-condition>
                         </condition-group>

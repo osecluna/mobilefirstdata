@@ -4,7 +4,7 @@
         <description>Affiliate Source Code Email promoting PS3 Bundle</description>
         <enabled-flag>true</enabled-flag>
         <active-redirect>
-            <product-redirect product-id="sony-ps3-bundle"/>
+            <product-redirect product-id="sony-ps3-bundleM"/>
         </active-redirect>
         <inactive-redirect>
             <default-redirect/>
@@ -21,7 +21,7 @@
         <online-from>2009-11-01Z</online-from>
         <online-to>2009-12-20Z</online-to>
         <active-redirect>
-            <product-redirect product-id="nintendo-wii-console"/>
+            <product-redirect product-id="nintendo-wii-consoleM"/>
         </active-redirect>
         <inactive-redirect>
             <page-redirect page-id="inactive-source-code"/>

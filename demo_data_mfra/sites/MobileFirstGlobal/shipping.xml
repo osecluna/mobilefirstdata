@@ -27,21 +27,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronics-televisions</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>25.00</surcharge>
-                </cost-per-item>
-            </product-cost-group>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                            <category-condition catalog-id="storefront-catalog-m-non-en" operator="is equal">
                                 <category-id>womens-jewelry</category-id>
                             </category-condition>
                         </condition-group>
@@ -117,20 +103,6 @@
             <amount order-value="500">20.99</amount>
         </price-table>
         <product-cost-groups>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronics-televisions</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>25.00</surcharge>
-                </cost-per-item>
-            </product-cost-group>
         </product-cost-groups>
         <excluded-addresses>
             <included-addresses>
@@ -196,15 +168,6 @@
             <amount order-value="200">21.99</amount>
             <amount order-value="500">29.99</amount>
         </price-table>
-        <excluded-products>
-            <included-products>
-                <condition-group>
-                    <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                        <category-id>electronics-televisions</category-id>
-                    </category-condition>
-                </condition-group>
-            </included-products>
-        </excluded-products>
         <excluded-addresses>
             <included-addresses>
                 <condition-group match-mode="all">
@@ -267,34 +230,15 @@
             <amount order-value="0.01">1.99</amount>
         </price-table>
         <product-cost-groups>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronic-games</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>100.00</surcharge>
-                </cost-per-item>
-            </product-cost-group>
         </product-cost-groups>
         <excluded-products>
             <included-products>
                 <condition-group>
-                    <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                    <category-condition catalog-id="storefront-catalog-m-non-en" operator="is equal">
                         <category-id>newarrivals</category-id>
                         <category-id>womens</category-id>
                         <category-id>mens</category-id>
                         <category-id>hidden</category-id>
-                        <category-id>electronics-televisions</category-id>
-                        <category-id>electronics-digital-cameras</category-id>
-                        <category-id>electronics-digital-media-players</category-id>
-                        <category-id>electronics-gps-units</category-id>
-                        <category-id>electronics-game-consoles</category-id>
                     </category-condition>
                 </condition-group>
             </included-products>
@@ -391,21 +335,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="electronics-catalog" operator="is equal">
-                                <category-id>electronics-televisions</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>25.00</surcharge>
-                </cost-per-item>
-            </product-cost-group>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                            <category-condition catalog-id="storefront-catalog-m-non-en" operator="is equal">
                                 <category-id>womens-jewelry</category-id>
                             </category-condition>
                         </condition-group>
@@ -481,20 +411,6 @@
             <amount order-value="500">20.99</amount>
         </price-table>
         <product-cost-groups>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronics-televisions</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>0.00</surcharge>
-                </cost-per-item>
-            </product-cost-group>
         </product-cost-groups>
         <excluded-addresses>
             <included-addresses>
@@ -622,20 +538,6 @@
             <amount order-value="0.01">1.99</amount>
         </price-table>
         <product-cost-groups>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronics-gaming</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>100.00</surcharge>
-                </cost-per-item>
-            </product-cost-group>
         </product-cost-groups>
         <excluded-addresses>
             <included-addresses>
@@ -729,21 +631,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="electronics-catalog" operator="is equal">
-                                <category-id>electronics-televisions</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>25.00</surcharge>
-                </cost-per-item>
-            </product-cost-group>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                            <category-condition catalog-id="storefront-catalog-m-non-en" operator="is equal">
                                 <category-id>womens-jewelry</category-id>
                             </category-condition>
                         </condition-group>
@@ -787,20 +675,6 @@
             <amount order-value="500">20.99</amount>
         </price-table>
         <product-cost-groups>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronics-televisions</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>0.00</surcharge>
-                </cost-per-item>
-            </product-cost-group>
         </product-cost-groups>
         <custom-attributes>
             <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">2 Business Days</custom-attribute>
@@ -864,20 +738,6 @@
             <amount order-value="0.01">1.99</amount>
         </price-table>
         <product-cost-groups>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronics-gaming</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>100.00</surcharge>
-                </cost-per-item>
-            </product-cost-group>
         </product-cost-groups>
         <custom-attributes>
             <custom-attribute attribute-id="estimatedArrivalTime" xml:lang="x-default">3-7 Business Days</custom-attribute>
@@ -939,21 +799,7 @@
                 <products>
                     <included-products>
                         <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronics-televisions</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>25</surcharge>
-                </cost-per-item>
-            </product-cost-group>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                            <category-condition catalog-id="storefront-catalog-m-non-en" operator="is equal">
                                 <category-id>womens-jewelry</category-id>
                             </category-condition>
                         </condition-group>
@@ -1029,20 +875,6 @@
             <amount order-value="500">20.99</amount>
         </price-table>
         <product-cost-groups>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronics-televisions</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>25</surcharge>
-                </cost-per-item>
-            </product-cost-group>
         </product-cost-groups>
         <excluded-addresses>
             <included-addresses>
@@ -1108,15 +940,6 @@
             <amount order-value="200">21.99</amount>
             <amount order-value="500">29.99</amount>
         </price-table>
-        <excluded-products>
-            <included-products>
-                <condition-group>
-                    <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                        <category-id>electronics-televisions</category-id>
-                    </category-condition>
-                </condition-group>
-            </included-products>
-        </excluded-products>
         <excluded-addresses>
             <included-addresses>
                 <condition-group match-mode="all">
@@ -1179,34 +1002,15 @@
             <amount order-value="0.01">1.99</amount>
         </price-table>
         <product-cost-groups>
-            <product-cost-group>
-                <products>
-                    <included-products>
-                        <condition-group>
-                            <category-condition catalog-id="storefront-catalog-en" operator="is equal">
-                                <category-id>electronic-games</category-id>
-                            </category-condition>
-                        </condition-group>
-                    </included-products>
-                </products>
-                <cost-per-item>
-                    <surcharge>100</surcharge>
-                </cost-per-item>
-            </product-cost-group>
         </product-cost-groups>
         <excluded-products>
             <included-products>
                 <condition-group>
-                    <category-condition catalog-id="storefront-catalog-en" operator="is equal">
+                    <category-condition catalog-id="storefront-catalog-m-non-en" operator="is equal">
                         <category-id>newarrivals</category-id>
                         <category-id>womens</category-id>
                         <category-id>mens</category-id>
                         <category-id>hidden</category-id>
-                        <category-id>electronics-televisions</category-id>
-                        <category-id>electronics-digital-cameras</category-id>
-                        <category-id>electronics-digital-media-players</category-id>
-                        <category-id>electronics-gps-units</category-id>
-                        <category-id>electronics-game-consoles</category-id>
                     </category-condition>
                 </condition-group>
             </included-products>
