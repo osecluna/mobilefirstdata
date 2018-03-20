@@ -1390,7 +1390,7 @@
                 <included-products>
                     <condition-group>
                         <product-id-condition operator="is equal">
-                            <product-id>013742002454</product-id>
+                            <product-id>013742002454M</product-id>
                         </product-id-condition>
                     </condition-group>
                 </included-products>
@@ -1398,7 +1398,7 @@
             <excluded-products>
                 <included-products>
                     <condition-group>
-                        <category-condition catalog-id="storefront-catalog-en">
+                        <category-condition catalog-id="storefront-catalog-m-non-en">
                             <category-id>womens-jewelry-necklaces</category-id>
                         </category-condition>
                     </condition-group>
@@ -1410,16 +1410,13 @@
                     <threshold>100.0</threshold>
                     <bonus-choice>
                         <bonus-products>
-                            <bonus-product product-id="008885004540">
+                            <bonus-product product-id="008885004540M">
                                 <bonus-product-price>5</bonus-product-price>
                             </bonus-product>
-                            <bonus-product product-id="008884304047">
+                            <bonus-product product-id="008884304047M">
                                 <bonus-product-price>10</bonus-product-price>
                             </bonus-product>
-                            <bonus-product product-id="883360390116">
-                                <bonus-product-price>0</bonus-product-price>
-                            </bonus-product>
-                            <bonus-product product-id="pioneer-pdp-6010fd">
+                            <bonus-product product-id="883360390116M">
                                 <bonus-product-price>0</bonus-product-price>
                             </bonus-product>
                         </bonus-products>
