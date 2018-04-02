@@ -2182,7 +2182,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
 &lt;h3 class="a3"&gt;您未来的高清电视&lt;/h3&gt;&#13;
 &lt;p&gt;如果您今天购买了高清电视，几乎可以肯定的是，它在未来几年都不会过时。没错，每年都会有新技术问世，但从标清到高清电视这样规模的巨变在很长一段时期内不会再出现。目前几乎所有高清电视都装有顺应未来趋势 HDMI 输入，以确保符合更为严格的版权保护标准，只要您的新高清电视具备此功能就可高枕无忧。&lt;/p&gt;&#13;
 &lt;p&gt; &lt;/p&gt;&#13;
-&lt;p&gt;欲了解高清电视的更多信息？请查看介绍性文章 &lt;a href="http://www.cnet.com/4520-7874_1-6635863-1.html"&gt;《HDTV 101：新手指南》&lt;/a&gt;，它将指引您阅读“CNET  &lt;a href="http://www.cnet.com/4520-7874_1-5102926-1.html"&gt;高清电视世界” (CNET's HDTV World) 的一系列文章&lt;/a&gt;。&lt;/p&gt;&#13;
+&lt;p&gt;欲了解高清电视的更多信息？请查看介绍性文章 &lt;a href="http://www.cnet.com/4520-7874_1-6635863-1.html"&gt;《HDTV 101：新手指南》&lt;/a&gt;，它将指引您阅读“CNET  &lt;a href="http://www.cnet.com/4520-7874_1-5102926-1.html"&gt;高清电视世界” (CNET's HDTV World) 等一系列文章&lt;/a&gt;。&lt;/p&gt;&#13;
 &lt;div align="right" class="v1" style="padding-top:5px;padding-bottom:20px;"&gt;» &lt;a href="#top"&gt;返回页首&lt;/a&gt;&lt;/div&gt;&#13;
 &lt;/div&gt;</custom-attribute>
         </custom-attributes>
@@ -3570,7 +3570,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
 
     <content content-id="checkout">
         <display-name xml:lang="x-default">Checkout</display-name>
-        <display-name xml:lang="fr-FR">Paiement</display-name>
+        <display-name xml:lang="fr-FR">Règlement</display-name>
         <display-name xml:lang="it-IT">Checkout</display-name>
         <display-name xml:lang="ja-JP">注文手続き</display-name>
         <display-name xml:lang="zh-CN">结账</display-name>
@@ -3611,13 +3611,13 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
 &#13;
 &lt;h3&gt;VAT Invoice.&lt;/h3&gt;&#13;
 &lt;p&gt;After your items are invoiced, you will receive an email which includes a link for retrieval of a VAT invoice for items purchased and shipped to you. This email will be sent in addition to the Shipment Confirmation email you will receive.&lt;/p&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h1 class="content-header"&gt;Paiement&lt;/h1&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h1 class="content-header"&gt;Règlement&lt;/h1&gt;&#13;
 &#13;
 &lt;h2&gt;Lorsque vous avez terminé vos achats, il ne vous reste plus qu'à les régler et à suivre les étapes ci-dessous pour passer votre commande :&lt;/h2&gt;&#13;
 &#13;
 &#13;
 &lt;h3&gt;Pour les utilisateurs enregistrés :&lt;/h3&gt;&#13;
-&lt;p&gt;Si vous êtes déjà client et disposez d'un compte, enregistrez-vous à l'aide de votre adresse e-mail et de votre mot de passe. Vous accéderez directement au premier onglet de la page Paiement.&lt;/p&gt;&#13;
+&lt;p&gt;Si vous êtes déjà client et disposez d'un compte, enregistrez-vous à l'aide de votre adresse e-mail et de votre mot de passe. Vous accéderez directement au premier onglet de la page Règlement.&lt;/p&gt;&#13;
 &#13;
 &lt;h3&gt;Pour les utilisateurs non enregistrés :&lt;/h3&gt;&#13;
 &lt;p&gt;Si vous n'êtes pas enregistré, vous pouvez poursuivre vos achats sans créer de compte. Vous avez également la possibilité de créer un compte.&lt;/p&gt;&#13;
@@ -3973,7 +3973,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
             <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;p&gt;&lt;span style="font-size: large;"&gt;Pourquoi créer un compte ?&lt;/span&gt;&lt;/p&gt;&#13;
 &lt;p class="checkmark-grey fl"&gt;&lt;/p&gt;&lt;p class="fl"&gt;&lt;strong&gt;Actualités et offres exclusives !&lt;/strong&gt;&lt;br/&gt;Inscrivez-vous pour recevoir des informations par e-mail sur des promotions spéciales, être informé de l'arrivée de nouveaux produits, recevoir des idées de cadeaux, etc.&lt;/p&gt;&lt;div class="clear"&gt;&lt;/div&gt;&#13;
 &lt;p class="checkmark-grey fl"&gt;&lt;/p&gt;&lt;p class="fl"&gt;&lt;strong&gt;Historique des commandes&lt;/strong&gt;&lt;br/&gt;Recevez d'importantes informations sur votre commande. Vous pouvez même suivre votre commande jusqu'à sa livraison.&lt;/p&gt;&lt;div class="clear"&gt;&lt;/div&gt;&#13;
-&lt;p class="checkmark-grey fl"&gt;&lt;/p&gt;&lt;p class="fl"&gt;&lt;strong&gt;Paiement plus rapide&lt;/strong&gt;&lt;br/&gt;Enregistrez vos informations de facturation et de livraison pour faciliter l'achat de vos articles préférés.&lt;br /&gt;&#13;
+&lt;p class="checkmark-grey fl"&gt;&lt;/p&gt;&lt;p class="fl"&gt;&lt;strong&gt;Règlement plus rapide&lt;/strong&gt;&lt;br/&gt;Enregistrez vos informations de facturation et de livraison pour faciliter l'achat de vos articles préférés.&lt;br /&gt;&#13;
 (&lt;a href="$url(Page-Show,cid,security-policy)$"&gt;Politique de sécurité&lt;/a&gt;)&lt;/p&gt;&lt;div class="clear"&gt;&lt;/div&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;p&gt;&lt;span style="font-size: large;"&gt;Vantaggi della creazione di un account&lt;/span&gt;&lt;/p&gt;&#13;
 &lt;p class="checkmark-grey fl"&gt;&lt;/p&gt;&lt;p class="fl"&gt;&lt;strong&gt;Notizie e offerte esclusive!&lt;/strong&gt;&lt;br/&gt;Registrati per ricevere e-mail di aggiornamento su promozioni speciali, annunci di nuovi prodotti, idee regalo e non solo.&lt;/p&gt;&lt;div class="clear"&gt;&lt;/div&gt;&#13;
@@ -4643,7 +4643,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
             <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div class="copyright"&gt;© 2004-2018 Commerce Cloud, un'azienda Salesforce. Tutti i diritti riservati.&lt;/div&gt;&#13;
                 &lt;div class="postscript"&gt;Questo è un negozio fittizio a scopo dimostrativo. Gli ordini effettuati NON verranno evasi.&lt;/div&gt;&#13;
 		&lt;!-- SG.2.0.0 --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div class="copyright"&gt;© 2004-2018 Commerce Cloud, a Salesforce company.All Rights Reserved.&lt;/div&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div class="copyright"&gt;© 2004-2018 Commerce Cloud, a Salesforce company. All Rights Reserved.&lt;/div&gt;&#13;
                 &lt;div class="postscript"&gt;これはデモのみを目的とするストアです。注文を確定しても処理されません。&lt;/div&gt;&#13;
 		&lt;!-- SG.2.0.0 --&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div class="copyright"&gt;© 2004-2018 Commerce Cloud, a Salesforce company。保留所有权利。&lt;/div&gt;&#13;
@@ -4656,7 +4656,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <display-name xml:lang="x-default">Footer Locate Store</display-name>
         <display-name xml:lang="fr-FR">Pied de page Localiser des magasins</display-name>
         <display-name xml:lang="it-IT">Piè di pagina Trova negozio</display-name>
-        <display-name xml:lang="ja-JP">フッターの店舗を検索する</display-name>
+        <display-name xml:lang="ja-JP">フッターの店舗検索</display-name>
         <display-name xml:lang="zh-CN">页脚查找商店</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
@@ -4668,7 +4668,7 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
                 &lt;span class="content"&gt;Le localisateur de magasins vous aide à trouver le magasin le plus proche.&lt;/span&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h3&gt;Trova negozio&lt;/h3&gt;&lt;/a&gt;&#13;
                 &lt;span class="content"&gt;Lo Store Locator è lo strumento che ti aiuta a trovare il negozio più vicino a te.&lt;/span&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h3&gt;店舗を検索する&lt;/h3&gt;&lt;/a&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h3&gt;店舗検索&lt;/h3&gt;&lt;/a&gt;&#13;
                 &lt;span class="content"&gt;「店舗検索」でお近くの店舗を検索していただけます。&lt;/span&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h3&gt;查找实体店&lt;/h3&gt;&lt;/a&gt;&#13;
                 &lt;span class="content"&gt;实体店地址搜索旨在帮助您查找周围最近的实体店。&lt;/span&gt;</custom-attribute>
@@ -8702,7 +8702,7 @@ Commerce Cloud へようこそ。成功は人から始まる、Commerce Cloud �
         &lt;p&gt;Recevez d'importantes informations sur votre commande et suivez-la jusqu'à sa livraison.&lt;/p&gt;&#13;
     &lt;/li&gt;&#13;
     &lt;li&gt;&#13;
-        &lt;h2&gt;Un paiement plus rapide&lt;/h2&gt;&#13;
+        &lt;h2&gt;Règlement plus rapide&lt;/h2&gt;&#13;
         &lt;p&gt;Enregistrez vos informations de facturation et de livraison pour faciliter la recherche et l'achat de vos articles préférés. Réglez vos achats en toute simplicité.&lt;/p&gt;&#13;
     &lt;/li&gt;&#13;
     &lt;li&gt;&#13;
@@ -9808,13 +9808,13 @@ Pour sécuriser vos informations personnelles, nous faisons appel à la technolo
 Notre site fournit parfois des liens vers des sites autres qui ne sont pas sous notre contrôle. Ni nous-mêmes ni les prestataires de services tiers qui gèrent notre site ne pouvons être tenus responsables de ces sites liés, de leur contenu ou des actions des fournisseurs de ces mêmes sites. Nous vous conseillons de consulter les politiques de confidentialité et de sécurité de tous les sites que vous utilisez.&lt;/p&gt;&#13;
 &#13;
 &lt;p&gt;&lt;strong&gt;Dois-je activer la fonction de sécurité pour effectuer mes achats ?&lt;/strong&gt;&lt;br /&gt;&#13;
-La fonction de sécurité étant automatique, elle est toujours activée. Vous pouvez donc effectuer vos achats sans vous en préoccuper. Tout ce que vous avez à faire pour démarrer notre processus de paiement sécurisé est de cliquer sur "Paiement" depuis n'importe quelle page.&lt;/p&gt;&#13;
+La fonction de sécurité étant automatique, elle est toujours activée. Vous pouvez donc effectuer vos achats sans vous en préoccuper. Tout ce que vous avez à faire pour démarrer notre processus de paiement sécurisé est de cliquer sur "Règlement" depuis n'importe quelle page.&lt;/p&gt;&#13;
 &#13;
 &lt;p&gt;&lt;strong&gt;Comment puis-je savoir si je suis connecté lorsque je commence à passer commande ?&lt;/strong&gt;&lt;br /&gt;&#13;
-Quand vous cliquez sur le bouton Poursuivre le paiement, votre navigateur recherche un certificat numérique confirmant que le site avec lequel il communique est bien notre site Web. Dès l'obtention d'un identifiant positif, votre commande peut se poursuivre en toute sécurité.&lt;/p&gt;&#13;
+Quand vous cliquez sur le bouton Poursuivre le règlement, votre navigateur recherche un certificat numérique confirmant que le site avec lequel il communique est bien notre site Web. Dès l'obtention d'un identifiant positif, votre commande peut se poursuivre en toute sécurité.&lt;/p&gt;&#13;
 &#13;
 &lt;p&gt;&lt;strong&gt;Toutes les pages de votre site sont-elles sécurisées ?&lt;/strong&gt;&lt;br /&gt;&#13;
-La plupart de nos pages fournissent des informations sur Commerce Cloud et sur nos produits. Nous vous procurons ces informations gracieusement, il n'y a donc aucune raison de sécuriser ces pages. Les pages que nous sécurisons sont celles sur lesquelles vous effectuez vos achats, notamment celles où vous gérez votre compte ou vérifiez l'état de votre commande, ainsi que les pages de la zone "Paiement". Par exemple, toutes les étapes du processus de paiement sont sécurisées, de la première saisie à la confirmation finale.&lt;/p&gt;&#13;
+La plupart de nos pages fournissent des informations sur Commerce Cloud et sur nos produits. Nous vous procurons ces informations gracieusement, il n'y a donc aucune raison de sécuriser ces pages. Les pages que nous sécurisons sont celles sur lesquelles vous effectuez vos achats, notamment celles où vous gérez votre compte ou vérifiez l'état de votre commande, ainsi que les pages de la zone "Règlement". Par exemple, toutes les étapes du processus de paiement sont sécurisées, de la première saisie à la confirmation finale.&lt;/p&gt;&#13;
 &#13;
 &lt;p&gt;&lt;strong&gt;Mes informations demeurent-elles sécurisées pendant leur transmission via Internet ?&lt;/strong&gt;&lt;br /&gt;&#13;
 Toutes vos informations sont cryptées avant d'être transmises et ne sont décodées qu'une fois parvenues sur nos serveurs sécurisés.&lt;/p&gt;&#13;
