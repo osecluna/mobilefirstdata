@@ -4538,35 +4538,35 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3&rt;&lt;a class="title" href="#"&gt;About&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3&gt;&lt;a class="title" href="#"&gt;About&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Go to About Us"&gt;About Us&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Go to Privacy"&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Go to Terms"&gt;Terms&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Go to Jobs"&gt;Jobs&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h3&rt;&lt;a class="title" href="#"&gt;À propos&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h3&gt;&lt;a class="title" href="#"&gt;À propos&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Aller à À propos de nous"&gt;À propos de nous&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Aller à Déclaration de confidentialité"&gt;Confidentialité&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Aller à Conditions générales"&gt;Conditions générales&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Aller à Carrières"&gt;Carrières&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;h3&rt;&lt;a class="title" href="#"&gt;Informazioni su&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;h3&gt;&lt;a class="title" href="#"&gt;Informazioni su&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Vai a Chi siamo"&gt;Chi siamo&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Vai a Privacy"&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Vai a Termini"&gt;Termini&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Vai a Lavora con noi"&gt;Lavora con noi&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;h3&rt;&lt;a class="title" href="#"&gt;企業情報&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;h3&gt;&lt;a class="title" href="#"&gt;企業情報&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="「Commerce Cloud について」に移動する"&gt;Commerce Cloud について&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="「プライバシー」に移動する"&gt;プライバシー&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="「利用条件」に移動する"&gt;利用条件&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="「採用情報」に移動する"&gt;採用情報&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;h3&rt;&lt;a class="title" href="#"&gt;关于&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;h3&gt;&lt;a class="title" href="#"&gt;关于&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="前往关于我们"&gt;关于我们&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="前往隐私"&gt;隐私政策&lt;/a&gt;&lt;/li&gt;&#13;
@@ -4586,35 +4586,35 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3&rt;&lt;a class="title" href="#"&gt;Account&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3&gt;&lt;a class="title" href="#"&gt;Account&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="Go to My Account"&gt;My Account&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Go to Check Order"&gt;Check Order&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Wishlist-Show')$" title="Go to Wish List"&gt;Wish List&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftRegistry-Start')$" title="Go to Gift Registry"&gt;Gift Registry&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h3&rt;&lt;a class="title" href="#"&gt;Compte&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h3&gt;&lt;a class="title" href="#"&gt;Compte&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="Aller à Mon compte"&gt;Mon compte&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Aller à Vérifier la commande"&gt;Vérifier la commande&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Wishlist-Show')$" title="Aller à Liste de souhaits"&gt;Liste de souhaits&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftRegistry-Start')$" title="Aller à Liste de cadeaux"&gt;Liste de cadeaux&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;h3&rt;&lt;a class="title" href="#"&gt;Account&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;h3&gt;&lt;a class="title" href="#"&gt;Account&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="Vai a Il mio account"&gt;Il mio account&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Vai a Controlla ordine"&gt;Controlla ordine&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Wishlist-Show')$" title="Vai a Lista desideri"&gt;Lista desideri&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftRegistry-Start')$" title="Vai a Lista regali"&gt;Lista regali&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;h3&rt;&lt;a class="title" href="#"&gt;アカウント&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;h3&gt;&lt;a class="title" href="#"&gt;アカウント&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="「マイアカウント」に移動する"&gt;マイアカウント&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="「注文の確認」に移動する"&gt;注文の確認&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Wishlist-Show')$" title="「ほしい物リスト」に移動する"&gt;ほしい物リスト&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftRegistry-Start')$" title="「ギフトレジストリ」に移動する"&gt;ギフトレジストリ&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;h3&rt;&lt;a class="title" href="#"&gt;账户&lt;/a&gt;&lt;/h3&rt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;h3&gt;&lt;a class="title" href="#"&gt;账户&lt;/a&gt;&lt;/h3&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="前往我的账户"&gt;我的账户&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="前往查看订单"&gt;检查订单&lt;/a&gt;&lt;/li&gt;&#13;
@@ -4733,35 +4733,35 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <searchable-flag>false</searchable-flag>
         <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3&rt;&lt;a class="title" href="#"&gt;Customer Service&lt;/a&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h3&gt;&lt;a class="title" href="#"&gt;Customer Service&lt;/a&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsUrl('CustomerService-ContactUs')$" title="Go to Contact Us"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftCert-Purchase')$" title="Go to Gift Certificates"&gt;Gift Certificates&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('CustomerService-Show','aid','customer-service')$" title="Go to Help"&gt;Help&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('SiteMap-Start')$" title="Go to Site Map"&gt;Site Map&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h3&rt;&lt;a class="title" href="#"&gt;Service client&lt;/a&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;h3&gt;&lt;a class="title" href="#"&gt;Service client&lt;/a&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsUrl('CustomerService-ContactUs')$" title="Aller à Contactez-nous"&gt;Contactez-nous&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftCert-Purchase')$" title="Aller à Chèques-cadeaux"&gt;Chèques-cadeaux&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('CustomerService-Show','aid','customer-service')$" title="Aller à Aide"&gt;Aide&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('SiteMap-Start')$" title="Aller à Plan du site"&gt;Plan du site&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;h3&rt;&lt;a class="title" href="#"&gt;Servizio clienti&lt;/a&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;h3&gt;&lt;a class="title" href="#"&gt;Servizio clienti&lt;/a&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsUrl('CustomerService-ContactUs')$" title="Vai a Contattaci"&gt;Contattaci&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftCert-Purchase')$" title="Vai a Certificati regalo"&gt;Certificati regalo&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('CustomerService-Show','aid','customer-service')$" title="Vai a Guida"&gt;Guida&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('SiteMap-Start')$" title="Vai a Mappa del sito"&gt;Mappa del sito&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;h3&rt;&lt;a class="title" href="#"&gt;カスタマーサービス&lt;/a&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;h3&gt;&lt;a class="title" href="#"&gt;カスタマーサービス&lt;/a&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsUrl('CustomerService-ContactUs')$" title="「お問い合わせ」に移動する"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftCert-Purchase')$" title="「ギフト券」に移動する"&gt;ギフト券&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('CustomerService-Show','aid','customer-service')$" title="「ヘルプ」に移動する"&gt;ヘルプ&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$url('SiteMap-Start')$" title="「サイトマップ」に移動する"&gt;サイトマップ&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;h3&rt;&lt;a class="title" href="#"&gt;客户服务&lt;/a&gt;&#13;
+            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;h3&gt;&lt;a class="title" href="#"&gt;客户服务&lt;/a&gt;&#13;
                 &lt;ul class="menu-footer content"&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsUrl('CustomerService-ContactUs')$" title="前往联系我们"&gt;联系我们&lt;/a&gt;&lt;/li&gt;&#13;
                 &lt;li&gt;&lt;a href="$httpsURL('GiftCert-Purchase')$" title="前往礼券"&gt;礼券&lt;/a&gt;&lt;/li&gt;&#13;
